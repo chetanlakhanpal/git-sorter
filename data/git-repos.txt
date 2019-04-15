@@ -1,0 +1,1100 @@
+ID	Project Name	Project Description	GitHub URL	Suspicious?
+166302	bootstrap	"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."	https://github.com/twbs/bootstrap	
+363623	react-native	A framework for building native apps with React.	https://github.com/facebook/react-native	
+16	angular.js	HTML enhanced for web apps	https://github.com/angular/angular.js	
+433781	flutter	"Framework for building high-performance, high-fidelity iOS and Android apps"	https://github.com/flutter/flutter	
+462925	swift	The Swift Programming Language	https://github.com/apple/swift	
+293158	angular		https://github.com/angular/angular	
+518149	electron	Build cross platform desktop apps with web technologies	https://github.com/electron/electron	
+1182	html5-boilerplate	"A professional front-end template for building fast, robust, and adaptable web apps or sites."	https://github.com/h5bp/html5-boilerplate	
+193381	free-programming-books-zh_CN	:books: å…çè´_ç_„è®¡ç®—æœºç_–ç¨‹ç±»ä¸_æ–‡ä__ç±çï_Œæ¬¢è¿_æ_•ç¨¿	https://github.com/justjavac/free-programming-books-zh_CN	
+184	meteor	"Meteor, the JavaScript App Platform"	https://github.com/meteor/meteor	
+369197	thefuck	Magnificent app which corrects your previous console command.	https://github.com/nvbn/thefuck	
+326805	awesome-android-ui	A curated list of awesome Android UI/UX libraries	https://github.com/wasabeef/awesome-android-ui	
+443	AFNetworking	A delightful iOS and OS X networking framework	https://github.com/AFNetworking/AFNetworking	
+1764	jQuery-File-Upload	"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine,"	https://github.com/blueimp/jQuery-File-Upload	
+397216	gatsby	Transform plain text into dynamic blogs and websites using React.js	https://github.com/gatsbyjs/gatsby	
+515769	android-architecture	A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.	https://github.com/googlesamples/android-architecture	
+6943	retrofit	"Type-safe HTTP client for Android and Java by Square, Inc."	https://github.com/square/retrofit	
+1801	okhttp	An HTTP+HTTP/2 client for Android and Java applications.	https://github.com/square/okhttp	
+276677	Alamofire	Elegant HTTP Networking in Swift	https://github.com/Alamofire/Alamofire	
+269486	awesome-ios	"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects "	https://github.com/vsouza/awesome-ios	
+41057	build-web-application-with-golang	A golang ebook intro how to build a web with golang	https://github.com/astaxie/build-web-application-with-golang	
+515905	Awesome-Hacking	"A collection of various awesome lists for hackers, pentesters and security researchers"	https://github.com/Hack-with-Github/Awesome-Hacking	
+11285	kotlin	The Kotlin Programming Language	https://github.com/JetBrains/kotlin	
+144824	todomvc	"Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more"	https://github.com/tastejs/todomvc	
+246056	MPAndroidChart	"A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations."	https://github.com/PhilJay/MPAndroidChart	
+302304	android_guides	Extensive Open-Source Guides for Android Developers	https://github.com/codepath/android_guides	
+136809	phaser	"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."	https://github.com/photonstorm/phaser	
+682715	storybook	UI Component Dev Environment for React	https://github.com/storybooks/storybook	
+160162	glide	An image loading and caching library for Android focused on smooth scrolling	https://github.com/bumptech/glide	
+277443	syncthing	Open Source Continuous File Synchronization	https://github.com/syncthing/syncthing	
+798871	create-react-app	Create React apps with no build configuration.	https://github.com/facebook/create-react-app	
+647975	lottie-android	Render After Effects animations natively on Android and iOS	https://github.com/airbnb/lottie-android	
+363741	awesome-react-native	"An ""awesome"" type curated list of React Native components, news, tools, and learning material"	https://github.com/jondot/awesome-react-native	
+465966	serverless	"Serverless Framework â€“ Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS) â€“ "	https://github.com/serverless/serverless	
+599399	realworld	"Fullstack example codebases for React, Angular, Node, Django, Rails & more"	https://github.com/gothinkster/realworld	
+128860	butterknife	"View ""injection"" library for Android."	https://github.com/JakeWharton/butterknife	
+591719	styled-components		https://github.com/styled-components/styled-components	
+568332	AndroidUtilCode		https://github.com/Blankj/AndroidUtilCode	
+100582	shadowsocks-android	A Shadowsocks client for Android	https://github.com/shadowsocks/shadowsocks-android	
+381245	leakcanary	A memory leak detection library for Android and Java.	https://github.com/square/leakcanary	
+448722	fastlane	Connect all iOS deployment tools into one streamlined workflow	https://github.com/fastlane/fastlane	
+4974	zxing	"Official ZXing (""Zebra Crossing"") project home"	https://github.com/zxing/zxing	
+351493	grpc	"The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)"	https://github.com/grpc/grpc	
+452096	gold-miner	æ_˜é‡‘ç¿»è¯‘è®¡åˆ’ï_Œç¿»è¯‘æ_˜é‡‘ä¸_ä_˜è´¨ç_„è‹±æ–‡æ–‡ç« 	https://github.com/xitu/gold-miner	
+289588	react-starter-kit	"React Starter Kit â€” a skeleton of an ""isomorphic"" web application / SPA built with React.js, Express, Flux, ES6+, JSX, Babel, PostCSS, Webpack, BrowserSync..."	https://github.com/kriasoft/react-starter-kit	
+339276	open-source-ios-apps	:iphone: Collaborative List of Open-Source iOS Apps	https://github.com/dkhamsing/open-source-ios-apps	
+115499	ReactiveCocoa	Streams of values over time	https://github.com/ReactiveCocoa/ReactiveCocoa	
+256057	the-swift-programming-language-in-chinese	ä¸_æ–‡ç‰ˆ Apple å®˜æ–_ Swift æ•™ç¨‹ã€_The Swift Programming Languageã€‹	https://github.com/numbbbbb/the-swift-programming-language-in-chinese	
+127634	fastjson	:bullettrain_side: Fast JSON Processor	https://github.com/alibaba/fastjson	
+237455	iosched	The Google I/O 2015 Android App	https://github.com/google/iosched	
+582668	ShadowsocksX-NG	Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS	https://github.com/shadowsocks/ShadowsocksX-NG	
+287581	SwiftyJSON	The better way to deal with JSON data in Swift	https://github.com/SwiftyJSON/SwiftyJSON	
+16530	Swiper	Most modern mobile touch slider with hardware accelerated transitions	https://github.com/nolimits4web/Swiper	
+275942	android-best-practices	"Do's and Don'ts for Android development, by Futurice developers"	https://github.com/futurice/android-best-practices	
+283122	RxAndroid	RxJava bindings for Android	https://github.com/ReactiveX/RxAndroid	
+105713	Leaflet	 :leaves: JavaScript library for mobile-friendly interactive maps	https://github.com/Leaflet/Leaflet	
+854305	mkcert	A simple zero-config tool to make development certificates.	https://github.com/FiloSottile/mkcert	
+245559	pop	"An extensible iOS and OS X animation library, useful for physics-based interactions."	https://github.com/facebook/pop	
+375315	awesome-electron	Useful resources for creating apps with Electron	https://github.com/sindresorhus/awesome-electron	
+269585	awesome-swift	A collaborative list of awesome swift resources. Feel free to contribute!	https://github.com/matteocrippa/awesome-swift	
+352499	NativeScript	Build truly native cross-platform iOS and Android apps with JavaScript	https://github.com/NativeScript/NativeScript	
+231668	PhotoSwipe	PhotoSwipe is a HTML/CSS/JavaScript based image gallery specifically targeting mobile touch devices	https://github.com/dimsemenov/PhotoSwipe	
+520591	BaseRecyclerViewAdapterHelper	"Abstraction for the usual RecyclerAdapte ""RecyclerAdapte.ViewHolder"" pattern"	https://github.com/CymChad/BaseRecyclerViewAdapterHelper	
+703880	SmartRefreshLayout	An intelligent refresh layout	https://github.com/scwang90/SmartRefreshLayout	
+505723	lighthouse		https://github.com/GoogleChrome/lighthouse	
+132383	jadx	Dex to Java decompiler	https://github.com/skylot/jadx	
+145834	picasso	A powerful image downloading and caching library for Android	https://github.com/square/picasso	
+646454	lottie-ios		https://github.com/airbnb/lottie-ios	
+784374	open-source-mac-os-apps	List of open source applications for macOS.	https://github.com/serhii-londar/open-source-mac-os-apps	
+363726	fresco	An Android library for managing images and the memory they use.	https://github.com/facebook/fresco	
+498752	vux	yet another vue adapter for weui	https://github.com/airyland/vux	
+496228	iris	"A very minimal but flexible golang web application framework, providing a robust set of features for building single & multi-page, web applications."	https://github.com/kataras/iris	
+308438	material-dialogs	Not even AppCompat uses Material theming for AlertDialogs for pre-Lollipop. This is a beautiful and easy solution.	https://github.com/afollestad/material-dialogs	
+828195	taro	å__ç«¯å_€åè‘è§£å†_æ–_æ¡ˆ	https://github.com/NervJS/taro	
+405873	RxSwift	Reactive Programming in Swift	https://github.com/ReactiveX/RxSwift	
+535496	swift-algorithm-club	"Algorithms and data structures in Swift, with explanations!"	https://github.com/raywenderlich/swift-algorithm-club	
+285614	keystone	node.js cms and web app framework	https://github.com/keystonejs/keystone	
+554927	my-mac-os	ï£¿ a list of applications and various miscellaneous that make macOS experience even more amazing 	https://github.com/nikitavoloboev/my-mac-os	
+37	angular-seed	Seed project for angular apps. 	https://github.com/angular/angular-seed	
+261057	SwiftGuide	è¿™ä»_æŒ‡åç—æ±‡é›†äº†Swiftè¯_è¨€ä¸»æµÅå__ä_ èµ„æºêï_Œå_¶ä»¥å_€åè‘è€…ç_„è§†è§’æ•´çê†ç_–æ_’ã€‚http://dev.swiftguide.cn 	https://github.com/ipader/SwiftGuide	
+192894	js-xlsx	XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer	https://github.com/SheetJS/js-xlsx	
+5	cocos2d-x	cocos2d-x for C++	https://github.com/cocos2d/cocos2d-x	
+544449	mint-ui	Mobile UI elements for vue.js	https://github.com/ElemeFE/mint-ui	
+692669	awesome-flutter	"A curated list of awesome Flutter frameworks, libraries, and software"	https://github.com/Solido/awesome-flutter	
+372005	SnapKit	A Swift Autolayout DSL for iOS & OS X	https://github.com/SnapKit/SnapKit	
+368282	Kingfisher	A lightweight and pure Swift implemented library for downloading and caching image from the web.	https://github.com/onevcat/Kingfisher	
+2539	fmdb	A Cocoa / Objective-C wrapper around SQLite	https://github.com/ccgus/fmdb	
+532433	flexbox-layout	Flexbox for Android 	https://github.com/google/flexbox-layout	
+7799	PhotoView		https://github.com/chrisbanes/PhotoView	
+592725	tinker	"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk."	https://github.com/Tencent/tinker	
+249345	odoo	Odoo (formerly OpenERP). Open Source Apps To Grow Your Business.	https://github.com/odoo/odoo	
+271171	realm-cocoa	Realm is a mobile database: a replacement for Core Data & SQLite	https://github.com/realm/realm-cocoa	
+35036	libgdx	Desktop/Android/HTML5/iOS Java game development framework	https://github.com/libgdx/libgdx	
+341283	Spring	A library to simplify iOS animations in Swift.	https://github.com/MengTo/Spring	
+244594	rclone	"Sync files to and from Google Drive, S3, Swift, Cloudfiles, Dropbox and Google Cloud Storage"	https://github.com/ncw/rclone	
+116501	dagger	A fast dependency injector for Android and Java.	https://github.com/google/dagger	
+310516	Carthage	"A simple, decentralized dependency manager for Cocoa"	https://github.com/Carthage/Carthage	
+450300	plaid		https://github.com/nickbutcher/plaid	
+159905	backbone	"Give your JS App some Backbone with Models, Views, Collections, and Events"	https://github.com/jashkenas/backbone	
+516545	Charts	Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.	https://github.com/danielgindi/Charts	
+457372	Perfect	"Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...)"	https://github.com/PerfectlySoft/Perfect	
+31063	fastclick	Polyfill to remove click delays on browsers with touch UIs	https://github.com/ftlabs/fastclick	
+657142	AR.js	Efficient Augmented Reality for the Web using ARToolKit - 60fps on mobile!	https://github.com/jeromeetienne/AR.js	
+423614	react-native-web	React Native for Web: A framework for building Native Web Apps	https://github.com/necolas/react-native-web	
+263610	ExoPlayer	An extensible media player for Android	https://github.com/google/ExoPlayer	
+174541	IQKeyboardManager	Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.	https://github.com/hackiftekhar/IQKeyboardManager	
+1231	jquery-mobile	jQuery Mobile Framework	https://github.com/jquery/jquery-mobile	
+461602	anko	Pleasant Android application development	https://github.com/Kotlin/anko	
+190844	Telegram	Telegram for Android source	https://github.com/DrKLO/Telegram	
+582755	egg	A web framework's framework for Node.js.	https://github.com/eggjs/egg	
+639053	create-react-native-app		https://github.com/react-community/create-react-native-app	
+697433	android-architecture-components		https://github.com/googlesamples/android-architecture-components	
+570072	vapor	A web framework and server for Swift that works on macOS and Ubuntu.	https://github.com/vapor/vapor	
+631902	redux-saga	An alternative side effect model for Redux apps	https://github.com/redux-saga/redux-saga	
+1438	CocoaPods	An Objective-C library dependency manager.	https://github.com/CocoaPods/CocoaPods	
+522960	NativeBase	The missing piece of React Native	https://github.com/GeekyAnts/NativeBase	
+282768	mui	æœ€æ_¥è¿‘å_Ÿç”ŸAPPä_“éªŒç_„é«˜æ€§èƒ_æ¡†æ_¶	https://github.com/dcloudio/mui	
+230552	chartist-js	Simple responsive charts	https://github.com/gionkunz/chartist-js	
+319791	framework	The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.	https://github.com/aurelia/framework	
+214433	CircleImageView	A circular ImageView for Android	https://github.com/hdodenhof/CircleImageView	
+2306	WordPress	"WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to http://core.trac.wordpress.org/ instead."	https://github.com/WordPress/WordPress	
+200841	CocoaLumberjack	"A fast & simple, yet powerful & flexible logging framework for Mac and iOS"	https://github.com/CocoaLumberjack/CocoaLumberjack	
+384867	SwiftLint	A tool to enforce Swift style and conventions.	https://github.com/realm/SwiftLint	
+317574	homebridge	HomeKit support for the impatient	https://github.com/nfarina/homebridge	
+356884	android-UniversalMusicPlayer	"This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices"	https://github.com/googlesamples/android-UniversalMusicPlayer	
+348378	stetho	"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more."	https://github.com/facebook/stetho	
+238422	PromiseKit	Promises for iOS and OS X	https://github.com/mxcl/PromiseKit	
+816573	scrcpy	Display and control your Android device	https://github.com/Genymobile/scrcpy	
+180	RestKit	RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X	https://github.com/RestKit/RestKit	
+292975	realm-java	Realm is a mobile database: a replacement for SQLite & ORMs	https://github.com/realm/realm-java	
+384048	react-native-vector-icons	"3000 Customizable Icons for React Native with support for NavBar/TabBar, image source and full stying."	https://github.com/oblador/react-native-vector-icons	
+677030	react-native-elements	React Native Elements UI Toolkit	https://github.com/react-native-training/react-native-elements	
+13318	greenDAO	greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.	https://github.com/greenrobot/greenDAO	
+341223	MaterialDrawer	"The flexible, easy to use, all in one drawer library for your Android project."	https://github.com/mikepenz/MaterialDrawer	
+175087	feathers	Build real-time apps faster than ever with our flexible JavaScript framework.	https://github.com/feathersjs/feathers	
+274360	FLEX	An in-app debugging and exploration tool for iOS	https://github.com/Flipboard/FLEX	
+537927	react-native-guide	React NativeæŒ‡åç—æ±‡é›†äº†åê„ç±»react-nativeå__ä_ èµ„æºêã€Åå_€æºêAppå’Œç»„ä»¶	https://github.com/reactnativecn/react-native-guide	
+740397	CodeHub	CodeHub is an iOS application written using Xamarin	https://github.com/CodeHubApp/CodeHub	
+508190	react-native-navigation	Created by talkol	https://github.com/wix/react-native-navigation	
+462929	swift-evolution	This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.	https://github.com/apple/swift-evolution	
+314256	animated-tab-bar	RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. 	https://github.com/Ramotion/animated-tab-bar	
+300416	lazysizes	"High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration."	https://github.com/aFarkas/lazysizes	
+600281	IGListKit	A data-driven UICollectionView framework for building fast and flexible lists.	https://github.com/Instagram/IGListKit	
+394635	infer	"A static analyzer for Java, C and Objective-C"	https://github.com/facebook/infer	
+475559	react-slingshot	"React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in"	https://github.com/coryhouse/react-slingshot	
+486096	Material	A beautiful graphics framework for Material Design in Swift.	https://github.com/CosmicMind/Material	
+266496	swift-style-guide	The official Swift style guide for raywenderlich.com.	https://github.com/raywenderlich/swift-style-guide	
+517730	ignite	The ideal starting app for React Native	https://github.com/infinitered/ignite	
+3828	CocoaAsyncSocket	Asynchronous socket networking library for Mac and iOS	https://github.com/robbiehanson/CocoaAsyncSocket	
+435451	Eureka	Elegant iOS form builder in Swift 2	https://github.com/xmartlabs/Eureka	
+403985	Moya	Network abstraction layer written in Swift.	https://github.com/Moya/Moya	
+732275	VasSonic	"VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. "	https://github.com/Tencent/VasSonic	
+276961	gun	"A realtime, decentralized, offline-first, graph database engine."	https://github.com/amark/gun	
+256060	FlappySwift	swift implementation of flappy bird. More at fullstackedu.com	https://github.com/fullstackio/FlappySwift	
+565432	Luban	Luban(é_Åçè_)â€”â€”åè¯èƒ_æ˜¯æœ€æ_¥è¿‘å_®ä¿¡æœ‹åè‹åœˆç_„å›_ç‰‡å_‹ç_©ç®—æ_•	https://github.com/Curzibn/Luban	
+270633	react-intl	React Components for internationalization.	https://github.com/yahoo/react-intl	
+505453	spectre	"Spectre, a lightweight and clean CSS framework for faster and extendable development."	https://github.com/picturepan2/spectre	
+2521	kivy	"Open source UI framework written in Python, running on Windows, Linux, OS X, Android and iOS"	https://github.com/kivy/kivy	
+756457	tailwindcss	A utility-first CSS framework for rapid UI development.	https://github.com/tailwindcss/tailwindcss	
+467747	botkit	Botkit is a toolkit for making bot applications	https://github.com/howdyai/botkit	
+660168	vlayout	"Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. "	https://github.com/alibaba/vlayout	
+471769	folding-cell	FoldingCell is an expanding content cell inspired by folding paper material	https://github.com/Ramotion/folding-cell	
+575526	react-dates	"An accessible, easily internationalizable, mobile-friendly datepicker library for the web"	https://github.com/airbnb/react-dates	
+322561	TimLiu-iOS	è‡ªå·±æ€»ç»“ç_„iOSã€Åmacå_€æºêé¡_ç›®åè_åº“ï_ŒæŒÅç»_æ›´æ–°ã€‚ã€‚ã€‚ã€‚	https://github.com/Tim9Liu9/TimLiu-iOS	
+702481	ionic	Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything ????	https://github.com/ionic-team/ionic	
+111934	appium	:iphone: Automation for iOS and Android Apps.	https://github.com/appium/appium	
+330705	recyclerview-animators	An Android Animation library which easily add itemanimator to RecyclerView items.	https://github.com/wasabeef/recyclerview-animators	
+769957	awesome-cheatsheets	"Awesome cheatsheets for Javascript, Python, Node, Bash & others. ????"	https://github.com/LeCoupa/awesome-cheatsheets	
+614553	GSYVideoPlayer		https://github.com/CarGuo/GSYVideoPlayer	
+684113	Matisse	:fireworks: A well-designed local image selector for Android	https://github.com/zhihu/Matisse	
+626730	ARouter	A middleware that help app navigating from external environment into internal activity on Android.	https://github.com/alibaba/ARouter	
+708077	ink		https://github.com/vadimdemedes/ink	
+288276	ios-good-practices	"Good ideas for iOS development, by Futurice developers."	https://github.com/futurice/ios-good-practices	
+470475	better-scroll	"inspired by iscroll, and it has a better scroll perfermance"	https://github.com/ustbhuangyi/better-scroll	
+458524	foundation-sites	The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.	https://github.com/zurb/foundation-sites	
+314962	libphonenumber	"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers."	https://github.com/googlei18n/libphonenumber	
+608733	quasar	Quasar Framework	https://github.com/quasarframework/quasar	
+806747	proton-native	"React Native for the desktop, cross compatible"	https://github.com/kusti8/proton-native	
+622799	rxdb	:computer: :iphone: A reactive Database for Progressive Web Apps and more	https://github.com/pubkey/rxdb	
+1083	xbmc	Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included	https://github.com/xbmc/xbmc	
+388426	hotel	local .dev domains for everyone and more!	https://github.com/typicode/hotel	
+477290	uCrop	Image Cropping Library for Android	https://github.com/Yalantis/uCrop	
+166253	protractor	E2E test framework for Angular apps	https://github.com/angular/protractor	
+750218	ngx-admin	Angular admin dashboard framework	https://github.com/akveo/ngx-admin	
+136544	mackup	Keep your application settings in sync (OS X/Linux)	https://github.com/lra/mackup	
+402302	stf	Control and manage Android devices from your browser.	https://github.com/openstf/stf	
+421380	react-native-router-flux	iOS/Android React Native Router based on exNavigator 	https://github.com/aksonov/react-native-router-flux	
+668596	brook		https://github.com/txthinking/brook	
+402016	RxBinding	RxJava binding APIs for Android's UI widgets.	https://github.com/JakeWharton/RxBinding	
+408737	dash	"Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python"	https://github.com/plotly/dash	
+472107	FileDownloader	Multitaskã€ÅBreakpoint-resumeã€ÅHigh-concurrencyã€ÅSimple to useã€ÅSingle-process	https://github.com/lingochamp/FileDownloader	
+403942	marko	Marko template engine	https://github.com/marko-js/marko	
+327757	react-grid-layout	"A draggable and resizable grid layout with responsive breakpoints, for React."	https://github.com/STRML/react-grid-layout	
+403057	NVActivityIndicatorView	Collection of nice loading animations	https://github.com/ninjaprox/NVActivityIndicatorView	
+268205	Quick	The Swift (and Objective-C) testing framework.	https://github.com/Quick/Quick	
+487822	mjml	MJML: the only framework that makes responsive-email easy	https://github.com/mjmlio/mjml	
+375900	MaterialViewPager	A Material Design ViewPager easy to use library	https://github.com/florent37/MaterialViewPager	
+435636	RxPermissions	Android runtime permissions powered by RxJava	https://github.com/tbruyelle/RxPermissions	
+96281	interact.js	"JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)"	https://github.com/taye/interact.js	
+306	SignalR	Incredibly simple real-time web for .NET	https://github.com/SignalR/SignalR	
+329549	trip-to-iOS		https://github.com/Aufree/trip-to-iOS	
+410473	push.js	"A compact, cross-browser solution for Javascript desktop notifications"	https://github.com/Nickersoft/push.js	
+445689	tachyons	Functional CSS for humans	https://github.com/tachyons-css/tachyons	
+562244	AndroidInterview-Q-A	The top Internet companies interview questions and answers	https://github.com/JackyAndroid/AndroidInterview-Q-A	
+415175	Google-Play-Music-Desktop-Player-UNOFFICIAL-	A beautiful cross platform Desktop Player for Google Play Music	https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-	
+679008	reactxp	Library for cross-platform app development.	https://github.com/Microsoft/reactxp	
+359014	open-source-android-apps	Open-Source Android Apps	https://github.com/pcqpcq/open-source-android-apps	
+696669	localstack	A fully functional local AWS cloud stack. Develop and test your cloud apps offline!	https://github.com/localstack/localstack	
+338875	wechat	åè¯èƒ_æ˜¯ç›®å‰çæœ€ä_˜é›…ç_„å_®ä¿¡å…¬ä_—å__åè° SDK äº†	https://github.com/overtrue/wechat	
+165385	Mars	éù¢åê‘äº¿ä¸‡ç”¨æˆ·çº§ç_„ç§»å_¨ç«¯Webè§£å†_æ–_æ¡ˆ	https://github.com/AlloyTeam/Mars	
+471615	muuri		https://github.com/haltu/muuri	
+684660	vant		https://github.com/youzan/vant	
+35292	spark	A Sinatra inspired framework for java	https://github.com/perwendel/spark	
+342328	browser-sync	Keep multiple browsers & devices in sync when building websites. http://browsersync.io	https://github.com/BrowserSync/browser-sync	
+803736	android-ktx	A set of Kotlin extensions for Android app development.	https://github.com/android/android-ktx	
+571497	MVPArms	"a common Architecture for Android Applications developing based on MVPï_Œintegrates many Open Source Projects ,to make your developing quicker and easier. ( ä¸€ä¸ªæ•´åêˆäº†å_§é‡èä¸»æµÅå_€æºêé¡_ç›®ç_„Android Mvpå¿«é€Ÿæê_å»ºæ¡†æ_¶)"	https://github.com/JessYanCoding/MVPArms	
+77511	Apktool	A tool for reverse engineering Android apk files	https://github.com/iBotPeaches/Apktool	
+374059	react-native-swiper	The best Swiper component for React Native.	https://github.com/leecade/react-native-swiper	
+675370	wechat-app-mall	å_®ä¿¡å°èç¨‹åºèå•†åŸ_ï_Œå_®ä¿¡å°èç¨‹åºèå_®åº—	https://github.com/EastWorld/wechat-app-mall	
+402879	iOSInterviewQuestions	iOSéù¢è¯•é¢˜é›†é”_ï_ˆé™„ç_”æ¡ˆï_‰--å__ä_ äº_æµÅç__465239521	https://github.com/ChenYilong/iOSInterviewQuestions	
+772243	lottie-web	after effects to html library	https://github.com/airbnb/lottie-web	
+404024	Iosevka	Spatial efficient monospace font family for programming. Built from code.	https://github.com/be5invis/Iosevka	
+333260	glide-transformations	An Android transformation library providing a variety of image transformations for Glide.	https://github.com/wasabeef/glide-transformations	
+899472	flutter-go	flutter å_€åè‘è€…å¸®å_© APPï_ŒåŒ…åê« flutter å¸¸ç”¨ 130+ ç»„ä»¶ç_„ä¸_æ–‡æ–‡æ¡£ä¸_ demo æ_”ç_º	https://github.com/alibaba/flutter-go	
+207	mono	"Mono open source ECMA CLI, C# and .NET implementation."	https://github.com/mono/mono	
+498963	Kitura	Web framework and HTTP server for Swift	https://github.com/IBM-Swift/Kitura	
+616126	botpress		https://github.com/botpress/botpress	
+5799	brunch	"Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps."	https://github.com/brunch/brunch	
+197631	OnsenUI	HTML5 Hybrid Mobile App Framework with Material Design and Flat UI	https://github.com/OnsenUI/OnsenUI	
+472240	easypermissions	Simplify Android M system permissions	https://github.com/googlesamples/easypermissions	
+706923	wcdb	Multi-platform database framework from WeChat application	https://github.com/Tencent/wcdb	
+437326	WeChatLuckyMoney	":moneybag: å_®ä¿¡æ_¢çº¢åŒ…æè’ä»¶, å¸®å_©ä_ åœ¨å_®ä¿¡ç__èÅ_æ_¢çº¢åŒ…æ—¶æˆ˜æ— ä¸çèƒœ. An Android app that helps you snatch virtual red envelopes in WeChat group chat. "	https://github.com/geeeeeeeeek/WeChatLuckyMoney	
+666966	atlas	A powerful Android Dynamic Component Framework.	https://github.com/alibaba/atlas	
+373725	WWDC	WWDC app for OS X	https://github.com/insidegui/WWDC	
+840487	redux	Predictable state container for JavaScript apps	https://github.com/reduxjs/redux	
+462936	swift-package-manager	The Package Manager for the Swift Programming Language	https://github.com/apple/swift-package-manager	
+611713	Dash-iOS	Coming soon.	https://github.com/Kapeli/Dash-iOS	
+569586	noms	"The versioned, forkable, syncable database"	https://github.com/attic-labs/noms	
+641347	joplin		https://github.com/laurent22/joplin	
+715634	VirtualAPK		https://github.com/didi/VirtualAPK	
+116325	android-gif-drawable	Views and Drawable for displaying animated GIFs on Android	https://github.com/koral--/android-gif-drawable	
+769831	SkeletonView	An elegant way to show users that something is happening and also prepare them to which contents he is waiting	https://github.com/Juanpe/SkeletonView	
+477040	AndroidNote	å®‰åç“å__ä_ ç¬”è®°	https://github.com/GcsSloop/AndroidNote	
+567428	ant-design-mobile	A configurable Mobile UI	https://github.com/ant-design/ant-design-mobile	
+784985	yew	Elm replacement in Rust	https://github.com/DenisKolodin/yew	
+261747	Cartography	A declarative Auto Layout DSL for Swift :iphone::triangular_ruler:	https://github.com/robb/Cartography	
+510101	tdesktop	Telegram Desktop messaging app	https://github.com/telegramdesktop/tdesktop	
+264360	LTMorphingLabel	Graceful morphing effects for UILabel written in Swift.	https://github.com/lexrus/LTMorphingLabel	
+689061	UltimateAndroidReference	:rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer	https://github.com/aritraroy/UltimateAndroidReference	
+712050	up	"Deploy serverless apps, apis, and sites in seconds."	https://github.com/apex/up	
+607320	Winds	"Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node 7 and Stream (getstream.io). It showcases personalized feeds (using machine learning similar to Facebook, Flipboard, Etsy, Quora - powered by the getstream.io API). This tut"	https://github.com/GetStream/Winds	
+270398	awesome-android	A curated list of awesome Android packages and resources.	https://github.com/JStumpp/awesome-android	
+229063	2048	A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)	https://github.com/gabrielecirulli/2048	
+404622	RxLifecycle	Lifecycle handling APIs for Android apps using RxJava	https://github.com/trello/RxLifecycle	
+892040	awesome-python-applications	"Software to study and use, which also happens to be open-source Python."	https://github.com/mahmoud/awesome-python-applications	
+728112	incubator-mxnet	"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"	https://github.com/apache/incubator-mxnet	
+458520	AndroidAutoLayout	Androidå±èå_•é€‚é…çæ–_æ¡ˆï_Œç›´æ_¥å¡«å†™è®_è®¡å›_ä¸_ç_„åƒèç´ å°ºå¯¸åç_åè¯å®Œæˆêé€‚é…çï_Œæœ€å_§é™êåº_è§£å†_é€‚é…çé—®é¢˜ã€‚	https://github.com/hongyangAndroid/AndroidAutoLayout	
+504771	FSCalendar	"A superiorly awesome iOS7+ calendar control, compatible with both Objective-C and Swift2"	https://github.com/WenchaoD/FSCalendar	
+694871	workbox	(Currently Work in Progress) Service Worker helper libraries. 	https://github.com/GoogleChrome/workbox	
+788848	react-navigation	"Learn once, navigate anywhere"	https://github.com/react-navigation/react-navigation	
+877789	MMKV	"An efficient, samll mobile key-value storage framework developed by WeChat. Works on iOS and Android."	https://github.com/Tencent/MMKV	
+514688	awesome-kotlin	A curated list of awesome Kotlin related stuff Inspired by awesome-java. 	https://github.com/KotlinBy/awesome-kotlin	
+267995	CryptoSwift	Crypto related functions and helpers for Swift implemented in Swift programming language	https://github.com/krzyzanowskim/CryptoSwift	
+514126	SmarterStreaming	è·¨å__åè°ç_„è§†é¢‘é‡‡é›†ã€Åç›´æ’_SDKï_ˆæ”¯æŒÅWindows/android/iOSï_‰ï_Œä_Ÿè®¸æ˜¯å›_å†…æœ€éù è°±ç_„è§†é¢‘ç›´æ’_æ_¨æµÅã€Åæ’_æ”_SDKä_‹ä¸€ï_Œå_©æ‚¨è_»æù_å®_ç_°ç±»ä__äº_è_±æ_’ã€Åæ˜ å®¢ã€Åæ–—é±_æ‰‹æœºç›´æ’_æ_¨é€Åä¸_æ’_æ”_ã€‚	https://github.com/daniulive/SmarterStreaming	
+163517	timber	"A logger with a small, extensible API which provides utility on top of Android's normal Log class."	https://github.com/JakeWharton/timber	
+309555	AudioKit	"Open-source audio synthesis, processing, & analysis platform."	https://github.com/audiokit/AudioKit	
+265477	AndroidDevTools	æ”¶é›†æ•´çê†Androidå_€åè‘æ‰€éœ€ç_„Android SDKã€Åå_€åè‘ä¸_ç”¨åˆ°ç_„å·¥å…·ã€ÅAndroidå_€åè‘æ•™ç¨‹ã€ÅAndroidè®_è®¡è§„èŒƒï_Œå…çè´_ç_„è®_è®¡ç´ æùêç_‰ã€‚	https://github.com/inferjay/AndroidDevTools	
+444658	react-native-animatable	Standard set of easy to use animations and declarative transitions for React Native	https://github.com/oblador/react-native-animatable	
+658440	Android-PickerView	ä»¿iOSç_„PickerViewæ_§ä»¶ï_Œæœ‰æ—¶é—´é€‰æ‹©å’Œé€‰é¡_é€‰æ‹©å_¶æ”¯æŒÅä¸€äºŒä¸‰çº§èÅ”å_¨æ•ˆæ_œ	https://github.com/Bigkoo/Android-PickerView	
+66818	Mobile-Detect	Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.	https://github.com/serbanghita/Mobile-Detect	
+403683	WinObjC	Objective-C for Windows	https://github.com/Microsoft/WinObjC	
+494181	react-router-redux	Ruthlessly simple bindings to keep react-router and redux in sync	https://github.com/reactjs/react-router-redux	
+325326	android-testing	A collection of samples demonstrating different frameworks and techniques for automated testing	https://github.com/googlesamples/android-testing	
+539375	cli	A small package for building command line apps in Go	https://github.com/urfave/cli	
+337758	JsBridge	"android java and javascript bridge, inspired by wechat webview jsbridge"	https://github.com/lzyzsd/JsBridge	
+546360	react-sortable-hoc	"Set of higher-order components to turn any list into a sortable, touch-friendly, animated list"	https://github.com/clauderic/react-sortable-hoc	
+843926	android-sunflower		https://github.com/googlesamples/android-sunflower	
+290398	android-floating-action-button	Floating Action Button for Android based on Material Design specification	https://github.com/futuresimple/android-floating-action-button	
+626651	material-components-android	Modular and customizable Material Design UI components for Android	https://github.com/material-components/material-components-android	
+125907	LitePal	An Android library that allows developers to use SQLite database extremely easy.	https://github.com/LitePalFramework/LitePal	
+691884	python-spider	Python3çˆ¬è™«	https://github.com/Jack-Cherish/python-spider	
+397634	OpenRCT2	An open source re-implementation of Roller Coaster Tycoon 2.	https://github.com/OpenRCT2/OpenRCT2	
+7144	laptop	A shell script which turns your OS X laptop into an awesome web development machine.	https://github.com/thoughtbot/laptop	
+322254	R.swift	"Get strong typed, autocompleted resources like images, fonts and segues in Swift projects"	https://github.com/mac-cain13/R.swift	
+7299	iOS-Runtime-Headers	iOS Objective-C headers as derived from runtime introspection	https://github.com/nst/iOS-Runtime-Headers	
+253722	synx	A command-line tool that reorganizes your Xcode project folder to match your Xcode groups	https://github.com/venmo/synx	
+773214	f2	the mobile version of g2	https://github.com/antvis/f2	
+511539	electron-builder	Build installers for Electron apps the easy way	https://github.com/electron-userland/electron-builder	
+865324	filament		https://github.com/google/filament	
+265698	MaterialDesign	Design resources for Material Design.	https://github.com/Templarian/MaterialDesign	
+137669	buck	"A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages."	https://github.com/facebook/buck	
+868921	AndroidAutoSize	A low-cost Android screen adaptation solution (ä»_æ—¥å_´æù¡å±èå_•é€‚é…çæ–_æ¡ˆç»ˆæ_Åç‰ˆï_Œä¸€ä¸ªæ_Åä__æˆêæœ¬ç_„ Android å±èå_•é€‚é…çæ–_æ¡ˆ).	https://github.com/JessYanCoding/AndroidAutoSize	
+237499	androidmvp	MVP Android Example	https://github.com/antoniolg/androidmvp	
+257803	jazzy	Soulful docs for Swift & Objective-C	https://github.com/realm/jazzy	
+325420	XLPagerTabStrip	Android PagerTabStrip for iOS.	https://github.com/xmartlabs/XLPagerTabStrip	
+321900	wego	weather app for the terminal	https://github.com/schachmat/wego	
+296219	SQLite.swift	"A type-safe, Swift-language layer over SQLite3."	https://github.com/stephencelis/SQLite.swift	
+295773	Reachability.swift	Replacement for Apple's Reachability re-written in Swift with closures	https://github.com/ashleymills/Reachability.swift	
+359556	dex2jar	Tools to work with android .dex and java .class files	https://github.com/pxb1988/dex2jar	
+615970	Android-Debug-Database	A library for debugging android databases and shared preferences	https://github.com/amitshekhariitbhu/Android-Debug-Database	
+515932	BotBuilder	"The Microsoft Bot Builder SDK is one of three main components of the Microsoft Bot Framework.  The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text"	https://github.com/Microsoft/BotBuilder	
+306412	helmet	Help secure Express apps with various HTTP headers	https://github.com/helmetjs/helmet	
+394885	android-ndk	Android NDK samples	https://github.com/googlesamples/android-ndk	
+684425	litho	A declarative framework for building efficient UIs on Android.	https://github.com/facebook/litho	
+811247	vue-native-core		https://github.com/GeekyAnts/vue-native-core	
+694610	howmanypeoplearearound	Using tshark to quantify the number of people in a location	https://github.com/schollz/howmanypeoplearearound	
+431368	laravel-permission	Associate users with roles and permissions	https://github.com/spatie/laravel-permission	
+725825	ncnn	ncnn is a high-performance neural network inference framework optimized for the mobile platform	https://github.com/Tencent/ncnn	
+395114	Timber	Material Design Music Player	https://github.com/naman14/Timber	
+665513	functions-samples	Set of Cloud Functions for Firebase samples	https://github.com/firebase/functions-samples	
+3159	MahApps.Metro	A toolkit for creating Metro / Modern UI styled WPF apps.	https://github.com/MahApps/MahApps.Metro	
+512676	Android-SpinKit	Android  loading animations	https://github.com/ybq/Android-SpinKit	
+196781	ShortcutBadger	"An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers."	https://github.com/leolin310148/ShortcutBadger	
+229370	chisel	Chisel is a collection of LLDB commands to assist debugging iOS apps.	https://github.com/facebook/chisel	
+677653	kotlin-native		https://github.com/JetBrains/kotlin-native	
+769555	cube-ui		https://github.com/didi/cube-ui	
+446403	react-native-code-push	React Native plugin for the CodePush service.	https://github.com/Microsoft/react-native-code-push	
+3318	noty	noty is a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.	https://github.com/needim/noty	
+706539	RePlugin	360æ‰‹æœºåç«å£«æè’ä»¶åŒ–æ¡†æ_¶æ–_æ¡ˆ	https://github.com/Qihoo360/RePlugin	
+316744	qt	Qt binding for Go (Windows / Mac OS X / Linux / Android)	https://github.com/therecipe/qt	
+250338	AndroidAssetStudio	A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.	https://github.com/romannurik/AndroidAssetStudio	
+218006	j2objc	A Java to iOS Objective-C translation tool and runtime.	https://github.com/google/j2objc	
+688763	sizzy	placeholder repo for a responsive design tool	https://github.com/kitze/sizzy	
+235406	mal	mal - Make a Lisp	https://github.com/kanaka/mal	
+715199	awesome-arkit	A curated list of awesome ARKit projects and resources. Feel free to contribute!	https://github.com/olucurious/awesome-arkit	
+562945	awesome-adb	Adb usage complete / Adb ç”¨æ_•å_§å…¨	https://github.com/mzlogin/awesome-adb	
+371641	ResearchKit	ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.	https://github.com/ResearchKit/ResearchKit	
+509678	JTAppleCalendar	This is the Apple Calendar control Apple whished they made.	https://github.com/patchthecode/JTAppleCalendar	
+557853	VirtualApp	An open source implementation of MultiAccount.	https://github.com/asLody/VirtualApp	
+323539	flickity	":leaves: Touch, responsive, flickable galleries"	https://github.com/metafizzy/flickity	
+505020	eruda	Console for mobile JavaScript	https://github.com/liriliri/eruda	
+626175	ios-oss	"Kickstarter for iOS. Bring new ideas to life, anywhere."	https://github.com/kickstarter/ios-oss	
+542443	anbox		https://github.com/anbox/anbox	
+811133	VirtualXposed	A Module to use Xposed without root or recovery(or modify system image etc).	https://github.com/android-hacker/VirtualXposed	
+694985	AgentWeb	This is android library on encapsulate webview . very easy to used . 	https://github.com/Justson/AgentWeb	
+283167	RxKotlin	RxJava bindings for Kotlin	https://github.com/ReactiveX/RxKotlin	
+240245	XLForm	XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C. 	https://github.com/xmartlabs/XLForm	
+537759	quickstart-android	Firebase Quickstart Samples for Android	https://github.com/firebase/quickstart-android	
+34446	antlr4	"ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."	https://github.com/antlr/antlr4	
+146617	knockout	"Knockout makes it easier to create rich, responsive UIs with JavaScript"	https://github.com/knockout/knockout	
+13813	seafile	"File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance. "	https://github.com/haiwen/seafile	
+5951	fancyBox	"fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages."	https://github.com/fancyapps/fancyBox	
+606470	ImmersionBar	å®‰åç“4.4ä»¥ä¸_æ_‰æµ¸å_è(ImmersionBar)å_„çê†	https://github.com/gyf-dev/ImmersionBar	
+769855	SuperTinyIcons	Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos	https://github.com/edent/SuperTinyIcons	
+250790	ZhihuDailyPurify	Purified version of Zhihu Daily - æ›´çº¯å‡€ç_„çŸ¥ä__æ—¥æ_¥	https://github.com/izzyleung/ZhihuDailyPurify	
+377091	androidtool-mac	"One-click screenshots, video recordings, app installation for iOS and Android"	https://github.com/mortenjust/androidtool-mac	
+503595	ZFPlayer	åŸºäº_AVPlayerï_Œå®_ç_°ä¸_ä¸‹æ»‘å_¨è°ƒè_‚éŸ_é‡èï_Œå·_åè_æ»‘å_¨è°ƒè_‚æ’_æ”_è¿›åº_	https://github.com/renzifeng/ZFPlayer	
+868693	watermelondb		https://github.com/Nozbe/watermelondb	
+2557	nimbus	The iOS framework that grows only as fast as its documentation	https://github.com/jverkoey/nimbus	
+618563	Keyframes	A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices.	https://github.com/facebookincubator/Keyframes	
+349155	mosby	A Model-View-Presenter library for modern Android apps	https://github.com/sockeqwe/mosby	
+478056	SVProgressHUD	A clean and lightweight progress HUD for your iOS and tvOS app.	https://github.com/SVProgressHUD/SVProgressHUD	
+59909	AndroidAsync	"Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads."	https://github.com/koush/AndroidAsync	
+76596	webpack-dev-server	Serves a webpack app. Updates the browser on changes.	https://github.com/webpack/webpack-dev-server	
+441740	AndResGuard	proguard resource for Android  by wechat team	https://github.com/shwenzhang/AndResGuard	
+638984	rax	:tophat: A universal React-compatible render engine.	https://github.com/alibaba/rax	
+664087	Texture		https://github.com/TextureGroup/Texture	
+579522	epoxy		https://github.com/airbnb/epoxy	
+642302	Toasty	"The usual Toast, but with steroids"	https://github.com/GrenderG/Toasty	
+451180	AndroidLibs	æ_£åœ¨æˆêä¸ºåè_ä¸_æœ€å…¨åˆ†ç±»Androidå_€æºêä»£ç Åå_§å…¨~~~~ï_ˆæ_£åœ¨æ•´çê†æ”¶é›†ï_Œä¸çè_Åçù€æ€¥~~å…ˆStarä¸€ä¸‹åê§ï_‰	https://github.com/XXApple/AndroidLibs	
+447943	CYLTabBarController	æœ€ä__åèªéœ€ä_ ä¸_ä¸ªæ•°ç»„åç_åè¯å®Œæˆêä¸»æµÅAppæ¡†æ_¶æê_å»º	https://github.com/ChenYilong/CYLTabBarController	
+396603	android-topeka	A fun to play quiz that showcases material design on Android	https://github.com/googlesamples/android-topeka	
+483973	ReSwift	Unidirectional Data Flow in Swift - Inspired by Redux	https://github.com/ReSwift/ReSwift	
+263019	sandstorm	Personal Cloud Sandbox	https://github.com/sandstorm-io/sandstorm	
+448482	android-job	Android library to handle jobs in the background.	https://github.com/evernote/android-job	
+586761	AndPermission		https://github.com/yanzhenjie/AndPermission	
+174857	subsampling-scale-image-view	"Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc."	https://github.com/davemorrissey/subsampling-scale-image-view	
+337707	TextFieldEffects	"Custom UITextFields effects inspired by Codrops, built using Swift"	https://github.com/raulriera/TextFieldEffects	
+749242	vConsole	"A lightweight, extendable front-end developer tool for mobile web page."	https://github.com/Tencent/vConsole	
+740773	lozad.js		https://github.com/ApoorvSaxena/lozad.js	
+354815	falcon	"Falcon is a high-performance Python framework for building REST microservices, smart proxies, and app backends."	https://github.com/falconry/falcon	
+648112	react-native-firebase	"Native firebase implementation for react native, supporting both ios and android."	https://github.com/invertase/react-native-firebase	
+334056	Side-Menu.Android	Side menu with some categories to choose.	https://github.com/Yalantis/Side-Menu.Android	
+758888	ViewAnimator	ViewAnimator brings your UI to life with just one line	https://github.com/marcosgriselli/ViewAnimator	
+543925	sourcegraph	"Fast, global, semantic code search & cross-reference engine for developers."	https://github.com/sourcegraph/sourcegraph	
+362841	responsive-html-email-template	When all you need is a really simple HTML email template.	https://github.com/leemunroe/responsive-html-email-template	
+344904	material-calendarview	A Material design back port of Android's CalendarView	https://github.com/prolificinteractive/material-calendarview	
+719869	android-interview-questions	Your Cheat Sheet For Android Interview - Android Interview Questions	https://github.com/MindorksOpenSource/android-interview-questions	
+641234	reactotron	A desktop app for inspecting your React JS and React Native projects.	https://github.com/infinitered/reactotron	
+685435	react-redux-typescript-guide	"A comprehensive guide to static typing ""React & Redux"" apps using TypeScript"	https://github.com/piotrwitek/react-redux-typescript-guide	
+270291	awesome-swift	"A curated list of awesome Swift frameworks, libraries and software."	https://github.com/Wolg/awesome-swift	
+738502	stencil	Stencil: A Compiler for Web Components	https://github.com/ionic-team/stencil	
+365412	moshi	A modern JSON library for Android and Java.	https://github.com/square/moshi	
+520222	BGAQRCode-Android	Android QRCode Library	https://github.com/bingoogolapple/BGAQRCode-Android	
+363351	componentkit	A React-inspired view framework for iOS.	https://github.com/facebook/componentkit	
+475513	selectize.js	"Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc."	https://github.com/selectize/selectize.js	
+540467	expanding-collection		https://github.com/Ramotion/expanding-collection	
+518167	electron-quick-start	Clone to try a simple Electron app	https://github.com/electron/electron-quick-start	
+309921	drive	Google Drive client for the commandline	https://github.com/odeke-em/drive	
+499751	BackgroundMusic	"Background Music, an OS X audio utility"	https://github.com/kyleneideck/BackgroundMusic	
+775549	haven	Haven (formerly known as â€œPhoneypotâ€ù) is an Android application that leverages on-device sensors to provide monitoring and protection of physical spaces.	https://github.com/guardianproject/haven	
+501464	electron-packager	"Package and distribute your Electron app in OS executables (.app, .exe etc) via JS or CLI"	https://github.com/electron-userland/electron-packager	
+148051	ion	Android Asynchronous Networking and Image Loading	https://github.com/koush/ion	
+350520	client	"Go library, client and local daemon"	https://github.com/keybase/client	
+1963	XMPPFramework	An XMPP Framework in Objective-C for Mac and iOS	https://github.com/robbiehanson/XMPPFramework	
+359038	http-proxy-middleware	":zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync"	https://github.com/chimurai/http-proxy-middleware	
+258159	SCLAlertView-Swift	Beautiful animated Alert View. Written in Swift	https://github.com/vikmeup/SCLAlertView-Swift	
+600085	react-native-snap-carousel	Simple carousel component with snapping effect on Android & iOS for React Native	https://github.com/archriss/react-native-snap-carousel	
+793836	iOSProject	"ocç»_åêˆé¡_ç›®,iosç»_åêˆé¡_ç›®,iosdemo,ocdemo,demo,ç™_æ€ùä¸çå_—å§ê,æ–°æµªå_®åç_,sina,QQéŸ_ä_ê,QQMusic,music,è§†é¢‘åˆ—è¡¨,æ»_å_¨æ’_æ”_,æ‹–æ‹_æ’_æ”_,ç_»çº¿ä¸‹è__,åç_æ—¶é€_è®¯,æ‰“åç° ios æ—¥å¿—,çœÅå¸‚åŒºä¸‰çº§èÅ”å_¨,æ_¡æœ‰å¯_èˆªæ è,è‡ªå®_ä_‰å¯_èˆªæ è,å_—ä_“é€‚é…çå±èå_•,ç©ºç™_é¡µå±•ç_º,ç©ºç™_é¡µ,å¯_èˆªæù¡é¢œè‰_æ¸êåè˜,å¯_èˆªæù¡é«˜åº_æ¸êåè˜,YYText ä_¿ç”¨,åˆ—è¡¨ç_„å±•å_€å’Œæ”¶èµ·,äº¬ä¸œé_–é¡µå¸ƒå±€,æµÅæ°´å¸ƒå±€,å_‚ç›´æµÅæ°´å¸ƒå±€,æ°´å__æµÅæ°´å¸ƒå±€,éù_è§„åˆ™æµÅæ°´å¸ƒå±€,é”®ç›˜å_„çê†,æ–‡ä»¶ä¸‹è__,Masonry æ¡ˆä_‹,LKDB æ•°æç®åº“,ç™_åº_åœ°å›_,äºŒç»´ç Å,ç…§ç‰‡ä¸_ä_ "	https://github.com/NJHu/iOSProject	
+542362	react-native-debugger	"The standalone app for React Native Debugger, with React DevTools / Redux DevTools"	https://github.com/jhen0409/react-native-debugger	
+3709	SparkleShare	"Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows."	https://github.com/hbons/SparkleShare	
+248266	soundnode-app	"Soundnode App is the Soundcloud for desktop. Built with NW.js, Angular.js and Soundcloud API."	https://github.com/Soundnode/soundnode-app	
+587672	Magisk		https://github.com/topjohnwu/Magisk	
+496314	EarlGrey	iOS UI Automation Test Framework	https://github.com/google/EarlGrey	
+715200	kittenTricks		https://github.com/akveo/kittenTricks	
+617081	serverless-application-model	AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.	https://github.com/awslabs/serverless-application-model	
+8608	chrome-app-samples	Chrome Apps	https://github.com/GoogleChrome/chrome-app-samples	
+672268	expo	Expo iOS/Android Client	https://github.com/expo/expo	
+871431	DoraemonKit	A collection of testing tools for iOS App development	https://github.com/didi/DoraemonKit	
+112123	WeiXinMPSDK	å_®ä¿¡å…¬ä_—å__åè°SDK Senparc.Weixin for C#ï_Œå·_æ”¯æŒÅå_®ä¿¡å…¬ä_—åè·ã€Åä_Åä¸_åè·ã€Åå_€æ”_å__åè°ã€Åå_®ä¿¡æ”¯ä»˜ã€ÅJSSDKã€‚	https://github.com/JeffreySu/WeiXinMPSDK	
+625134	FastHub	TODO	https://github.com/k0shk0sh/FastHub	
+813620	swift-nio	Event-driven network application framework for high performance protocol servers & clients non-blocking.	https://github.com/apple/swift-nio	
+593328	NewPipe	A lightweight Youtube frontend for Android.	https://github.com/TeamNewPipe/NewPipe	
+533474	pepperoni-app-kit	Pepperoni - React Native App Starter Kit for Android and iOS	https://github.com/futurice/pepperoni-app-kit	
+3336	Metro-UI-CSS	CSS styles for build Windows 8 Metro UI stylable interface	https://github.com/olton/Metro-UI-CSS	
+272025	starscream	Websockets in swift for iOS and OSX	https://github.com/daltoniam/Starscream	
+380626	SwiftDate	"Powerful NSDate & Time Zones Management, made in Swift 2"	https://github.com/malcommac/SwiftDate	
+792047	sweetalert2	"A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies."	https://github.com/sweetalert2/sweetalert2	
+12232	python-for-android	Turn your Python application into an Android APK	https://github.com/kivy/python-for-android	
+528498	Depth-LIB-Android-	"A library gives depth to Views. It also contains some examples of Canvas drawing techniques to create particle systems, waves and grain effect. Don't expect to much from this lib, it was written as a quick prototype, so the visuals look good but the code "	https://github.com/danielzeller/Depth-LIB-Android-	
+180901	JVFloatLabeledTextField	UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users	https://github.com/jverdi/JVFloatLabeledTextField	
+2643	facebook-android-sdk	Used to integrate Android apps with Facebook Platform.	https://github.com/facebook/facebook-android-sdk	
+327111	KeychainAccess	Simple Swift wrapper for Keychain that works on iOS and OS X	https://github.com/kishikawakatsumi/KeychainAccess	
+73372	ReactiveUI	"A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. Supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms, WPF, Windows Forms, Windows P"	https://github.com/reactiveui/ReactiveUI	
+338350	android-advancedrecyclerview	"RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)"	https://github.com/h6ah4i/android-advancedrecyclerview	
+88816	ppsspp	"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org."	https://github.com/hrydgard/ppsspp	
+431262	pupy	"Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android) Remote Administration Tool with an embedded Python interpreter."	https://github.com/n1nj4sec/pupy	
+93083	pickadate.js	"(Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker."	https://github.com/amsul/pickadate.js	
+4002	k-9	K-9 Mail â€“ Advanced Email for Android	https://github.com/k9mail/k-9	
+290994	jjwt	Java JWT: JSON Web Token for Java	https://github.com/jwtk/jjwt	
+489532	Douya	"Douban, yet another"	https://github.com/DreaminginCodeZH/Douya	
+232156	bullet3	Bullet 2.x official repository with optional experimental Bullet 3 GPU rigid body pipeline	https://github.com/bulletphysics/bullet3	
+133958	koreader	"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices"	https://github.com/koreader/koreader	
+576560	SwiftMessages	A very flexible message bar for iOS written in Swift.	https://github.com/SwiftKickMobile/SwiftMessages	
+144225	robolectric	Android Unit Testing Framework	https://github.com/robolectric/robolectric	
+622016	darkflow	"translate darknet to tensorflow. Load trained weights, retrain/fine-tune them using tensorflow, export constant graph def to C++"	https://github.com/thtrieu/darkflow	
+638363	SwifterSwift	A handy collection of more than 400 native Swift 3 extensions to boost your productivity.	https://github.com/SwifterSwift/SwifterSwift	
+274577	Async	Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch	https://github.com/duemunk/Async	
+572034	react-app-rewired	Configure the unconfigurable ... override Create React App WebPack configs	https://github.com/timarney/react-app-rewired	
+516822	folding-cell-android		https://github.com/Ramotion/folding-cell-android	
+189877	Squirrel.Windows	An installation and update framework for Windows desktop apps	https://github.com/Squirrel/Squirrel.Windows	
+620751	CyberChef	The Cyber Swiss Army Knife	https://github.com/gchq/CyberChef	
+645973	react-native-interactable	Experimental implementation of interactable views in React Native	https://github.com/wix/react-native-interactable	
+446426	AndroidPicker	"å®‰åç“é€‰æ‹©å™¨ç±»åº“ï_ŒåŒ…æ‹¬æ—¥æœŸæ—¶é—´é€‰æ‹©å™¨ã€Ååç•é¡_é€‰æ‹©å™¨ã€Ååœ°åù€é€‰æ‹©å™¨ã€Åé¢œè‰_é€‰æ‹©å™¨ã€Åæ–‡ä»¶ç›®å_•é€‰æ‹©å™¨ã€Åæ•°å_—é€‰æ‹©å™¨ã€Åæ˜Ÿåº§é€‰æ‹©å™¨ç_‰ï_Œåè¯è‡ªå®_ä_‰é¡¶éƒ¨åè_åº•éƒ¨ç•Œéù¢ï_Œåè¯è‡ªå®_ä_‰çª—åè£å_¨ç”»ã€‚Picker for android, include date&time/option/number/address/city/color/file&directory."	https://github.com/gzu-liyujiang/AndroidPicker	
+722388	ARKit-CoreLocation	Combines the high accuracy of AR with the scale of GPS data.	https://github.com/ProjectDent/ARKit-CoreLocation	
+781356	Manta	???? Painless invoicing with customizable templates	https://github.com/hql287/Manta	
+665468	react-native-windows	A framework for building native apps with React.	https://github.com/Microsoft/react-native-windows	
+402295	react-native-material-kit	Bringing Material Design to React Native	https://github.com/xinthink/react-native-material-kit	
+521717	redex	A bytecode optimizer for Android apps	https://github.com/facebook/redex	
+627075	nexe	???? create a single executable out of your node.js apps	https://github.com/nexe/nexe	
+767928	RIBs	Uber's cross-platform mobile architecture.	https://github.com/uber/RIBs	
+667729	Awesome_APIs	A collection of APIs	https://github.com/TonnyL/Awesome_APIs	
+419462	react_on_rails	Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps	https://github.com/shakacode/react_on_rails	
+441888	grommet	The most advanced UX framework for enterprise applications.	https://github.com/grommet/grommet	
+587287	TapTargetView	An implementation of tap targets from the Material Design guidelines for feature discovery	https://github.com/KeepSafe/TapTargetView	
+141140	xctool	A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.	https://github.com/facebook/xctool	
+455352	nwb	CLI tool for React apps and components & plain JS apps and npm modules	https://github.com/insin/nwb	
+334876	Android-Image-Cropper	Android widget for cropping and rotating an image.	https://github.com/ArthurHub/Android-Image-Cropper	
+674946	UltraViewPager	UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager.	https://github.com/alibaba/UltraViewPager	
+9442	snowplow	"Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kinesis, Redshift and Elasticsearch"	https://github.com/snowplow/snowplow	
+572469	cameraview		https://github.com/google/cameraview	
+97791	aws-sdk-js	AWS SDK for JavaScript in the browser and Node.js	https://github.com/aws/aws-sdk-js	
+596620	mas	:package: Mac App Store command line interface	https://github.com/mas-cli/mas	
+552354	kotlinx.coroutines	Libraries built upon Kotlin coroutines	https://github.com/Kotlin/kotlinx.coroutines	
+637165	esp8266_deauther	ESP8266 deauther	https://github.com/spacehuhn/esp8266_deauther	
+666251	CalendarView	Androidä¸_ä¸€ä¸ªä_˜é›…ã€Åé«˜åº_è‡ªå®_ä_‰ã€Åæ€§èƒ_é«˜æ•ˆç_„æ—¥å_†æ_§ä»¶ï_Œæ”¯æŒÅæ ‡è®°ã€Åè‡ªå®_ä_‰é¢œè‰_ã€Åå†œå_†ç_‰ã€‚Canvasç»˜åˆ¶ï_Œé€Ÿåº_å¿«ã€Ååç ç”¨å†…å_˜ä__	https://github.com/huanghaibin-dev/CalendarView	
+189668	boto3	AWS SDK for Python	https://github.com/boto/boto3	
+666492	PRobot	a trainable robot that responds to activity on GitHub	https://github.com/probot/PRobot	
+476622	jquery-weui	WeUI ç_„jQueryç‰ˆæœ¬ï_Œå_ºå_§ç®€æ´Å	https://github.com/lihongxun945/jquery-weui	
+284872	Surge	"A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation."	https://github.com/mattt/Surge	
+550795	Compressor	An android image compression library.	https://github.com/zetbaitsu/Compressor	
+654838	Alerter	An Android Alterting Library	https://github.com/Tapadoo/Alerter	
+582705	Macaw	Swift UI library	https://github.com/exyte/Macaw	
+684136	aurora-imui	é€_ç”¨ IM èÅ_å_© UI ç»„ä»¶	https://github.com/jpush/aurora-imui	
+248602	tablesaw	A group of plugins for responsive tables.	https://github.com/filamentgroup/tablesaw	
+753040	weex-ui	A Weex Ui Component Library	https://github.com/alibaba/weex-ui	
+308013	Android-Iconics	"Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application."	https://github.com/mikepenz/Android-Iconics	
+684362	plugins	Commonly used Flutter plugins	https://github.com/flutter/plugins	
+431243	caprine	Unofficial Facebook Messenger app	https://github.com/sindresorhus/caprine	
+580625	RxJava2-Android-Samples	RxJava2 Android Tutorials With Example	https://github.com/amitshekhariitbhu/RxJava2-Android-Samples	
+572554	ui		https://github.com/shoutem/ui	
+226209	fastdfs	"FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance."	https://github.com/happyfish100/fastdfs	
+638238	walle	Android Signature V2 Schemeç__åêçä¸‹ç_„æ–°ä¸€ä»£æ¸ éÅ“åŒ…æ‰“åŒ…ç¥_å™¨	https://github.com/Meituan-Dianping/walle	
+634918	xLua	"xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc."	https://github.com/Tencent/xLua	
+764367	heml	HEML is an open source markup language for building responsive email.	https://github.com/SparkPost/heml	
+419531	git-appraise	Distributed code review system for Git repos	https://github.com/google/git-appraise	
+894674	devhub	"DevHub: TweetDeck for GitHub - Android, iOS and Web  ????"	https://github.com/devhubapp/devhub	
+549383	detox		https://github.com/wix/detox	
+720693	git-point	:zap: GitHub for iOS. Built with React Native.	https://github.com/gitpoint/git-point	
+420367	che	Eclipse Che: Next-generation Eclipse IDE.  Open source workspace server and cloud IDE.	https://github.com/eclipse/che	
+515389	OwlCarousel2	jQuery Responsive Carousel.	https://github.com/OwlCarousel2/OwlCarousel2	
+626200	android-oss	"Kickstarter for Android. Bring new ideas to life, anywhere."	https://github.com/kickstarter/android-oss	
+105013	GCDWebServer	Lightweight GCD based HTTP server for OS X & iOS (includes web based uploader & WebDAV server)	https://github.com/swisspol/GCDWebServer	
+575748	wiki	"A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown"	https://github.com/Requarks/wiki	
+8182	cw-omnibus	Source code to omnibus edition of _The Busy Coder's Guide to Android Development_	https://github.com/commonsguy/cw-omnibus	
+1467	html5demos	Collection of hacks and demos showing capability of HTML5 apps	https://github.com/remy/html5demos	
+754652	BulletinBoard	Generate and Display Bottom Card Interfaces for iOS	https://github.com/alexaubry/BulletinBoard	
+718045	sourcerer-app	Sourcerer app makes engineering profiles from their git repositories.	https://github.com/sourcerer-io/sourcerer-app	
+122138	gitignore.io	Create useful .gitignore files for your project	https://github.com/joeblau/gitignore.io	
+227575	vimr	Project VimR â€” Refined Vim experience for OS X	https://github.com/qvacua/vimr	
+333230	elm-architecture-tutorial	How to create modular Elm code that scales nicely with your app	https://github.com/evancz/elm-architecture-tutorial	
+742500	JiaoZiVideoPlayer	Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen	https://github.com/lipangit/JiaoZiVideoPlayer	
+389019	BGARefreshLayout-Android	å__ç§çä¸‹æ‹‰åˆ·æ–°æ•ˆæ_œã€Åä¸_æ‹‰å_ è__æ›´å__ã€Ååè¯é…çç_®è‡ªå®_ä_‰å_´éƒ¨å_¿å‘_ä_ç	https://github.com/bingoogolapple/BGARefreshLayout-Android	
+685301	casbin	"An authorization library that supports access control models like ACL, RBAC, ABAC"	https://github.com/casbin/casbin	
+402781	Koloda	KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. 	https://github.com/Yalantis/Koloda	
+651621	FSPagerView		https://github.com/WenchaoD/FSPagerView	
+330057	MaterialDateTimePicker	Pick a date or time on Android in style	https://github.com/wdullaer/MaterialDateTimePicker	
+372324	InversifyJS	A lightweight IoC container written in TypeScript.	https://github.com/inversify/InversifyJS	
+561213	Fast-Android-Networking	A Complete Fast Android Networking Library that also support HTTP/2	https://github.com/amitshekhariitbhu/Fast-Android-Networking	
+807869	flutter-desktop-embedding		https://github.com/google/flutter-desktop-embedding	
+624601	webpacker	Use Webpack to manage app-like JavaScript modules in Rails	https://github.com/rails/webpacker	
+523388	GPUImage2	GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.	https://github.com/BradLarson/GPUImage2	
+676754	Halfrost-Field		https://github.com/halfrost/Halfrost-Field	
+569994	MultiType	An Android library to retrofit multiple item view types	https://github.com/drakeet/MultiType	
+693558	react-native-calendars	React Native Calendar Components	https://github.com/wix/react-native-calendars	
+78273	acra	Application Crash Reports for Android	https://github.com/ACRA/acra	
+210142	gremlins.js	Monkey testing library for web apps and Node.js	https://github.com/marmelab/gremlins.js	
+632755	create-react-app-typescript	Create React apps using typescript with no build configuration.	https://github.com/wmonk/create-react-app-typescript	
+518665	fantastic-ios-animation	A collection of iOS animation repos	https://github.com/onmyway133/fantastic-ios-animation	
+508298	macdown	Open source Markdown editor for OS X.	https://github.com/MacDownApp/macdown	
+388870	opengapps	The main repository of the Open GApps Project	https://github.com/opengapps/opengapps	
+225376	jspaint	"classic mspaint, revived"	https://github.com/1j01/jspaint	
+365649	Xiaomi_Kernel_OpenSource	"Xiaomi kernel OpenSourceï__cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i)"	https://github.com/MiCode/Xiaomi_Kernel_OpenSource	
+398847	PLDroidPlayer	"Pili Live Streaming player SDK for Android, RTMP and HLS supported."	https://github.com/pili-engineering/PLDroidPlayer	
+511118	BottomNavigation		https://github.com/Ashok-Varma/BottomNavigation	
+468880	react-native-push-notification	React Native Local and Remote Notifications	https://github.com/zo0r/react-native-push-notification	
+437627	Instructions	"Create walkthroughs and guided tours (using coach marks) in a simple way, using Swift."	https://github.com/ephread/Instructions	
+403026	Blurry	Blurry is an easy blur library for Android	https://github.com/wasabeef/Blurry	
+887676	lorca	Web rendering surface for Go applications	https://github.com/zserge/lorca	
+572157	react-native-macos	React Native for macOS	https://github.com/ptmt/react-native-macos	
+291189	cpprestsdk	The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.	https://github.com/Microsoft/cpprestsdk	
+526343	SwiftOCR		https://github.com/garnele007/SwiftOCR	
+416159	PureLayout	"The ultimate API for iOS & OS X Auto Layout â€” impressively simple, immensely powerful. Objective-C and Swift compatible."	https://github.com/PureLayout/PureLayout	
+468658	SwiftyBeaver	"Colorful, lightweight & fast logging in Swift 2"	https://github.com/SwiftyBeaver/SwiftyBeaver	
+428804	JFoenix	JavaFX Material Design Library	https://github.com/jfoenixadmin/JFoenix	
+610150	flex-layout	Experimental work on flex layouts API for Angular	https://github.com/angular/flex-layout	
+14086	assimp	Official Git mirror of the Open Asset Import Library SVN repository.	https://github.com/assimp/assimp	
+738746	Awesome-CoreML-Models	The largest list of available CoreML models	https://github.com/likedan/Awesome-CoreML-Models	
+406779	learn-json-web-tokens	:closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)	https://github.com/dwyl/learn-json-web-tokens	
+847316	JSUI	One UI to rule them all (JS apps) ... Get it? JS UI? No? ok	https://github.com/kitze/JSUI	
+431302	iOS-9-Sampler	Code examples for the new features of iOS 9.	https://github.com/shu223/iOS-9-Sampler	
+427605	SwiftyStoreKit	Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+	https://github.com/bizz84/SwiftyStoreKit	
+242484	dev-blog	ä¸€äº› iOS / Web å_€åè‘ç›¸å…_ç_„ç¿»è¯‘æˆ–å_Ÿåˆ›åç_å®¢æ–‡ç« 	https://github.com/nixzhu/dev-blog	
+273675	android-security-awesome	A collection of android security related resources	https://github.com/ashishb/android-security-awesome	
+747762	Framework7	Full featured HTML framework for building iOS & Android apps	https://github.com/framework7io/Framework7	
+639268	Android-skin-support	Android-skin-support: ä¸€æ¬_ç”¨å¿ƒå_»åÅ_ç_„Androidæç¢è‚_æ¡†æ_¶	https://github.com/ximsfei/Android-skin-support	
+579990	android-tips-tricks		https://github.com/nisrulz/android-tips-tricks	
+420825	dryrun	:coffee: Try the demo project of any Android Library	https://github.com/cesarferreira/dryrun	
+260958	TLYShyNavBar	"Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!"	https://github.com/telly/TLYShyNavBar	
+573973	Shadowrocket-ADBlock-Rules	é«˜æ•ˆç®€æ´Åç_„ Shadowrocket è§„åˆ™ï_Œå¸_å_¿å‘_è¿‡æ»_å_Ÿèƒ_	https://github.com/h2y/Shadowrocket-ADBlock-Rules	
+602485	owasp-mstg	OWASP Mobile Security Testing Guide	https://github.com/OWASP/owasp-mstg	
+81	json-framework	JSON (JavaScript Object Notation) is a light-weight data interchange format that's easy to read and write for humans and computers alike. This framework implements a strict JSON parser and generator in Objective-C. 	https://github.com/stig/json-framework	
+665439	wechaty	Wechat for Bot. Powered by WebDriver / Node.js / Docker	https://github.com/Chatie/wechaty	
+460607	Chatto	"A lightweight framework to build chat applications, made in Swift"	https://github.com/badoo/Chatto	
+531681	SocketRocket	A conforming Objective-C WebSocket client library.	https://github.com/facebook/SocketRocket	
+402986	PINRemoteImage	"A thread safe, performant, feature rich image fetcher"	https://github.com/pinterest/PINRemoteImage	
+378275	openvr	OpenVR SDK	https://github.com/ValveSoftware/openvr	
+626023	Sourcery	"A tool that brings meta-programming to Swift, allowing you to code generate Swift code."	https://github.com/krzysztofzablocki/Sourcery	
+538871	JAViewer		https://github.com/SplashCodes/JAViewer	
+446365	code-push	A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their usersâ€™ devices	https://github.com/Microsoft/code-push	
+336565	SwiftyUserDefaults	Modern Swift API for NSUserDefaults	https://github.com/radex/SwiftyUserDefaults	
+510157	ahbottomnavigation	A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.	https://github.com/aurelhubert/ahbottomnavigation	
+646284	android-mvp-architecture	"This repository contains a detailed sample app that implements MVP architecture using Dagger2, Retrofit,  GreenDao, and RxJava"	https://github.com/MindorksOpenSource/android-mvp-architecture	
+149536	shenzhen	CLI for Building & Distributing iOS Apps (.ipa Files)	https://github.com/nomad/shenzhen	
+642189	react-native-ui-kitten	React Native UI-Kitten	https://github.com/akveo/react-native-ui-kitten	
+378371	awesome-appsec	A curated list of resources for learning about application security	https://github.com/paragonie/awesome-appsec	
+121554	ios-webkit-debug-proxy	A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).	https://github.com/google/ios-webkit-debug-proxy	
+333950	Context-Menu.Android	You can easily add awesome animated context menu to your app.	https://github.com/Yalantis/Context-Menu.Android	
+353424	socket.io-client-swift		https://github.com/socketio/socket.io-client-swift	
+996	zeus	Boot any rails app in under a second.	https://github.com/burke/zeus	
+381826	openshare	ä¸çç”¨å®˜æ–_SDKï_Œåˆ©ç”¨ç__äº_è_¯ä»¶ç§»å_¨å®¢æˆ·ç«¯(å_®ä¿¡/QQ/å_®åç_/äººäºº/æ”¯ä»˜å®ù)åˆ†äº«/ç™»å_•/æ”¯ä»˜ã€‚	https://github.com/100apps/openshare	
+650690	hydra	A security-first open source OAuth2 and OpenID Connect server for new and existing infrastructures. Written in Go.	https://github.com/ory/hydra	
+316132	MMWormhole	Message passing between iOS apps and extensions.	https://github.com/mutualmobile/MMWormhole	
+587132	PageIndicatorView		https://github.com/romandanylyk/PageIndicatorView	
+299213	google-authenticator	Open source version of Google Authenticator (except the Android app)	https://github.com/google/google-authenticator	
+625141	CloudReader	Netease cloud music Ui && Retrofit + RxJava + Mvvm-databinding && GankIoã€ÅDouban Api	https://github.com/youlookwhat/CloudReader	
+862814	GSYGithubAppFlutter	è¶…å®Œæ•´ç_„Flutteré¡_ç›®ï_Œå_Ÿèƒ_ä¸°å¯Œï_Œé€‚åêˆå__ä_ å’Œæ—¥å¸¸ä_¿ç”¨ï_Œå·_æœ‰åêŒæ¬_å_€æºêReact Nativeã€ÅWeexç_‰ç‰ˆæœ¬ã€‚è·¨å__åè°ç_„å_€æºêGithubå®¢æˆ·ç«¯Appï_Œæ›´å¥_ç_„ä_“éªŒï_Œæ›´ä¸°å¯Œç_„å_Ÿèƒ_ï_Œæ—¨åœ¨æ›´å¥_ç_„æ—¥å¸¸ç®¡çê†å’Œç»´æ__ä¸ªäººGithubï_Œæèêä_›æ›´å¥_æ›´æ–_ä_¿ç_„é©_è__ä_“éªŒï__ï__Î£(ï¿£ã€‚ï¿£ï_‰)ï_‰ã€‚åêŒæ¬_Weexç‰ˆæœ¬ ï__ https://github.com/CarGuo/GSYGithubAppWeex    ã€ÅåêŒæ¬_React Nativeç‰ˆæœ¬ ï__ https://github.com/CarGuo/GSYGithub	https://github.com/CarGuo/GSYGithubAppFlutter	
+835157	swift	Swift for TensorFlow documentation repository.	https://github.com/tensorflow/swift	
+457763	Dexter	Android library that simplifies the process of requesting permissions at runtime.	https://github.com/Karumi/Dexter	
+311621	mobile	[mirror] Go on Mobile	https://github.com/golang/mobile	
+521392	Android-ZBLibrary	"åùêæ ‡æ ‡å‡†åº“ï_ŒAndroidå¿«é€Ÿå_€åè‘æ¡†æ_¶ï_Œæèêä_›ä¸€å¥—å_€åè‘æ ‡å‡†ï_ˆUI,Data,Listenerï_‰ä»¥åè_æ¨¡æù¿å’Œå·¥å…·ç±»å_¶è§„èŒƒä»£ç Åã€‚ä¸€åè¥ä»£ç Åå°±åè¯å®_ç_°å…¨å±€æ»‘å_¨è¿”å›_ï_ˆåè¯é‡çå†™ï_‰ï_›é›†æˆêæ–_ä_¿å¿«æç·ç_„æœçå_¡å™¨åˆ‡æç¢ç•Œéù¢ã€Åç…§ç‰‡é€‰æ‹©å™¨ã€Åæ—¥æœŸé€‰æ‹©å™¨ã€Ååœ°åù€é€‰æ‹©å™¨ã€Åæ—¶é—´åˆ·æ–°å™¨ç_‰ã€‚"	https://github.com/TommyLemon/Android-ZBLibrary	
+359039	Nuke	"Image loading, processing, caching and preheating"	https://github.com/kean/Nuke	
+635773	Store	Android Library for Async Data Loading and Caching	https://github.com/NYTimes/Store	
+227497	lightGallery	"A customizable, modular, responsive, lightbox gallery plugin. :+1:"	https://github.com/sachinchoolur/lightGallery	
+403409	PocketHub	PocketHub Android App	https://github.com/pockethub/PocketHub	
+4233	countly-server	This is the home for Countly Mobile & Web Analytics and Marketing Platform. Countly helps you collect data and understand insights of your application. Available self-hosted or on private cloud. 	https://github.com/Countly/countly-server	
+448074	termux-app	Android terminal emulator and Linux environment - app repository.	https://github.com/termux/termux-app	
+737387	PermissionsDispatcher	Simple annotation-based API to handle runtime permissions.	https://github.com/permissions-dispatcher/PermissionsDispatcher	
+727577	shadowsocksr-android	A ShadowsocksR client for Android	https://github.com/shadowsocksrr/shadowsocksr-android	
+493204	react-server		https://github.com/Redfin/react-server	
+42591	OHHTTPStubs	"Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!"	https://github.com/AliSoftware/OHHTTPStubs	
+140518	Tesseract-OCR-iOS	"Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64."	https://github.com/gali8/Tesseract-OCR-iOS	
+896886	matrix	"Matrix is a plugin style, no-intrusion APM system developed by WeChat."	https://github.com/Tencent/matrix	
+140819	PostgresApp	The easiest way to get started with PostgreSQL on the Mac	https://github.com/PostgresApp/PostgresApp	
+339302	konva	Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.	https://github.com/konvajs/konva	
+607840	RxDownload	"åŸºäº_RxJavaæ‰“é€ ç_„ä¸‹è__å·¥å…·, æ”¯æŒÅå__çº¿ç¨‹ä¸‹è__å’Œæ–_ç‚_ç»_ä_ , æ™ºèƒ_åˆ_æ–_æ˜¯åê_æ”¯æŒÅæ–_ç‚_ç»_ä_ ç_‰å_Ÿèƒ_"	https://github.com/ssseasonnn/RxDownload	
+200294	examples	Example Koa apps	https://github.com/koajs/examples	
+698900	from-java-to-kotlin	From Java To Kotlin - Your Cheat Sheet For Java To Kotlin	https://github.com/MindorksOpenSource/from-java-to-kotlin	
+588261	iOS-10-Sampler	Code examples for new APIs of iOS 10.	https://github.com/shu223/iOS-10-Sampler	
+12814	ideavim	Vim emulation plug-in for IDEs based on the IntelliJ platform.	https://github.com/JetBrains/ideavim	
+535319	ESTabBarController		https://github.com/eggswift/ESTabBarController	
+221569	angular-translate	"i18n in your Angular apps, made easy."	https://github.com/angular-translate/angular-translate	
+237361	jitsi-meet	Jitsi Videobridge meets WebRTC	https://github.com/jitsi/jitsi-meet	
+445846	StarWars.iOS	This component implements transition animation to crumble view-controller into tiny pieces.	https://github.com/Yalantis/StarWars.iOS	
+650627	AnimatedCollectionViewLayout	A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.	https://github.com/KelvinJin/AnimatedCollectionViewLayout	
+498898	realm-js	 Realm is a mobile database: an alternative to SQLite & key-value stores	https://github.com/realm/realm-js	
+473221	SideMenu	Simple side menu control in Swift inspired by Facebook. Right and Left sides. No coding required.	https://github.com/jonkykong/SideMenu	
+462930	swift-corelibs-foundation	"The Foundation Project, providing core utilities, internationalization, and OS independence"	https://github.com/apple/swift-corelibs-foundation	
+546337	LFLiveKit	iOS Live Kit	https://github.com/LaiFengiOS/LFLiveKit	
+563231	ticker	A textview for Android that supports scrolling text animation	https://github.com/robinhood/ticker	
+509816	Conductor	"A small, yet full-featured framework that allows building View-based Android applications"	https://github.com/bluelinelabs/Conductor	
+408572	FirebaseUI-Android		https://github.com/firebase/FirebaseUI-Android	
+395486	MyLinearLayout	"A powerful iOS view layout library, suitable for all kinds of screen size. Don't need to learn AutoLayout and SizeClass. You can use MyLinearLayout, MyRelativeLayout,MyFrameLayout,MyTableLayout,MyFlowLayout,MyLayoutSizeClass  to build your UI Layout"	https://github.com/youngsoft/MyLinearLayout	
+430803	JKeyboardPanelSwitch	For resolve keybord & panel switch layout conflict(Androidé”®ç›˜éù¢æù¿å†_çªÅ å¸ƒå±€é—ªå_¨å_„çê†æ–_æ¡ˆ)	https://github.com/Jacksgong/JKeyboardPanelSwitch	
+384342	sdk	"The Dart SDK, including the VM, dart2js, core libraries, and more."	https://github.com/dart-lang/sdk	
+161352	parceler	:package: Android Parcelables made easy through code generation.	https://github.com/johncarl81/parceler	
+168760	KIF	Keep It Functional - An iOS Functional Testing Framework	https://github.com/kif-framework/KIF	
+564656	RNStudyNotes	React Native Study Notes.	https://github.com/crazycodeboy/RNStudyNotes	
+268245	android-priority-jobqueue	"A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability."	https://github.com/yigit/android-priority-jobqueue	
+88341	poco	POCO C++ Libraries - Cross-platform C++ libraries with a network/internet focus.	https://github.com/pocoproject/poco	
+355849	shimmer-android	"An easy, flexible way to add a shimmering effect to any view in an Android app."	https://github.com/facebook/shimmer-android	
+141271	sfml	Simple and Fast Multimedia Library	https://github.com/SFML/SFML	
+21132	noUiSlider	"noUiSlider is a lightweight JavaScript range slider library. It offers a wide selection of options and settings, and is compatible with a ton of (touch) devices, including those running iOS, Android, Windows 8/8.1/10, Windows Phone 8.1 and Windows Mobile "	https://github.com/leongersen/noUiSlider	
+434783	react-responsive	Media queries in react for responsive design	https://github.com/contra/react-responsive	
+291007	YapDatabase	YapDatabase is an extensible database for iOS & Mac.	https://github.com/yapstudios/YapDatabase	
+15783	libextobjc	A Cocoa library to extend the Objective-C programming language.	https://github.com/jspahrsummers/libextobjc	
+519017	yasea	RTMP streaming client in pure Java for Android for those who hate JNI.	https://github.com/begeekmyfriend/yasea	
+427513	WebDriverAgent	A WebDriver server for iOS that runs inside the Simulator.	https://github.com/facebook/WebDriverAgent	
+82246	Sloth	OS X app that shows all open files and sockets in use by all running applications. GUI for lsof.	https://github.com/sveinbjornt/Sloth	
+325400	zxing-android-embedded	"Port of the ZXing Android application as an Android library project, for embedding in an Android application."	https://github.com/journeyapps/zxing-android-embedded	
+521801	gorush	A push notification server written in Go (Golang).	https://github.com/appleboy/gorush	
+137409	git-ftp	Git powered FTP client written as shell script.	https://github.com/git-ftp/git-ftp	
+319296	SlideMenuControllerSwift	"iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.  It is written in pure swift."	https://github.com/dekatotoro/SlideMenuControllerSwift	
+460316	directus	"Directus is a free and open source, customer-friendly database GUI written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas."	https://github.com/directus/directus	
+458304	cli	"This repo contains the .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...)."	https://github.com/dotnet/cli	
+575216	ramme	????  Unofficial Instagram Desktop App	https://github.com/terkelg/ramme	
+258466	XCGLogger	"A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number."	https://github.com/DaveWoodCom/XCGLogger	
+151139	css-element-queries	CSS-Element-Queries Polyfill. proof-of-concept for high-speed element dimension/media queries in valid css.	https://github.com/marcj/css-element-queries	
+741125	arcore-android-sdk	Google ARCore SDK for Android	https://github.com/google-ar/arcore-android-sdk	
+762523	ktor	Source repository for Ktor	https://github.com/ktorio/ktor	
+900495	chameleon		https://github.com/didi/chameleon	
+24469	ua-parser-js	"UAParser.js - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component/Bower/Meteor package, & RequireJS/AMD module"	https://github.com/faisalman/ua-parser-js	
+283156	jquery-focuspoint	jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.	https://github.com/jonom/jquery-focuspoint	
+221264	muzei	Muzei Live Wallpaper for Android	https://github.com/romannurik/muzei	
+896850	revery	":zap: Native, high-performance, cross-platform desktop apps - built with Reason!"	https://github.com/revery-ui/revery	
+256549	mapbox-gl-native	"Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL"	https://github.com/mapbox/mapbox-gl-native	
+293973	SCLAlertView	Beautiful animated Alert View. Written in Swift but ported to Objective-C	https://github.com/dogo/SCLAlertView	
+714743	MonkeyDev	MonkeyDev	https://github.com/AloneMonkey/MonkeyDev	
+311258	lazyload	"LazyLoad is a fast, lightweight and flexible script to allow you enhance performance on your website by loading images only as they enter (or are about to enter) the viewport or a scrollable area, with best support to the img srcset attribute and to the p"	https://github.com/verlok/lazyload	
+498720	TSWeChat	"A high copy WeChat, written by Swift."	https://github.com/hilen/TSWeChat	
+757780	Cards	Awesome card views in iOS 11 AppStore's style.	https://github.com/PaoloCuscela/Cards	
+487359	SkyFloatingLabelTextField	"A beautiful and flexible text field control implementation of  ""Float Label Pattern"". Written in Swift. As used in the Skyscanner TravelPro iOS app."	https://github.com/Skyscanner/SkyFloatingLabelTextField	
+227733	Conversations	Conversations is an open source XMPP/Jabber client for Android 4.0+ smart phones. 	https://github.com/siacs/Conversations	
+821101	outline-client	Multi-platform Outline client.	https://github.com/Jigsaw-Code/outline-client	
+809361	iOS-Developer-Roadmap	Roadmap to becoming an iOS developer in 2018.	https://github.com/BohdanOrlov/iOS-Developer-Roadmap	
+268202	Nimble	A Matcher Framework for Swift and Objective-C	https://github.com/Quick/Nimble	
+391559	aws-sdk-go	AWS SDK for the Go programming language.	https://github.com/aws/aws-sdk-go	
+626549	material-components-ios	Modular and customizable Material Design UI components for iOS	https://github.com/material-components/material-components-ios	
+467177	reading	Reading App  Write In React-Native	https://github.com/attentiveness/reading	
+287668	docpad	"Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to cr"	https://github.com/docpad/docpad	
+5346	InAppSettingsKit	This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.	https://github.com/futuretap/InAppSettingsKit	
+151204	html5-device-mockups	"HTML5 mockups of popular devices, to showcase your portfolio and spice up your website."	https://github.com/pixelsign/html5-device-mockups	
+354621	react-data-grid	"Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like http://adazzle.github.io/react-data-grid/  "	https://github.com/adazzle/react-data-grid	
+392995	BGABanner-Android	Splashç•Œéù¢æ»‘å_¨å¯_èˆª+åê„ç§çåˆ‡æç¢å_¨ç”»è‡ªå_¨è_®æ’_æ•ˆæ_œ	https://github.com/bingoogolapple/BGABanner-Android	
+250228	EhViewer	E-Hentai Application for Android	https://github.com/seven332/EhViewer	
+289806	iOS8-Sampler	Code examples for the new features of iOS 8.	https://github.com/shu223/iOS8-Sampler	
+2761	libfreenect	"Drivers and libraries for the Xbox Kinect device on Windows, Linux, and OS X"	https://github.com/OpenKinect/libfreenect	
+261867	PKHUD	"A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,â€_) for iOS 8."	https://github.com/pkluz/PKHUD	
+580583	vonic	Ionic UI in Vue.js way.	https://github.com/wangdahoo/vonic	
+441845	slidingtutorial-android	Android Library for making animated tutorials inside your app	https://github.com/Cleveroad/slidingtutorial-android	
+737899	CollectionKit		https://github.com/SoySauceLab/CollectionKit	
+401981	deeplinkdispatch	"A simple, annotation-based library for making deep link handling better on Android"	https://github.com/airbnb/DeepLinkDispatch	
+771077	after.js	what comes after next.js? this.	https://github.com/jaredpalmer/after.js	
+536305	MessageKit	"Eventually, a Swift re-write of JSQMessagesViewController"	https://github.com/MessageKit/MessageKit	
+391946	Valet	Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. Itâ€™s easy. We promise.	https://github.com/square/Valet	
+667681	Robust	Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.	https://github.com/Meituan-Dianping/Robust	
+159529	node-express-mongoose-demo	"A simple demo app in node.js using express, mongoose, passport.js for beginners"	https://github.com/madhums/node-express-mongoose-demo	
+11241	SoundJS	"A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback."	https://github.com/CreateJS/SoundJS	
+537508	react-native-image-crop-picker	iOS/Android image picker with support for multiple images and cropping	https://github.com/ivpusic/react-native-image-crop-picker	
+217896	Bolts-Android	Bolts is a collection of low-level libraries designed to make developing mobile apps easier.	https://github.com/BoltsFramework/Bolts-Android	
+618094	quorum	A permissioned implementation of Ethereum supporting data privacy	https://github.com/jpmorganchase/quorum	
+426199	Android-Best-Practices	Androidæœ€ä__å®_è·µç_ºä_‹	https://github.com/tianzhijiexian/Android-Best-Practices	
+250686	ActionSheetPicker-3.0	Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.	https://github.com/skywinder/ActionSheetPicker-3.0	
+435220	omim	MAPS.ME - Offline OpenStreetMap maps for iOS/Android/Mac/Linux/Windows	https://github.com/mapsme/omim	
+761383	Electron.NET	Build cross platform desktop apps with .NET Core and ASP.NET NET Core.	https://github.com/ElectronNET/Electron.NET	
+553237	MagicaSakura	MagicaSakura is an Android multi theme library which supporting both daily colorful theme and night theme. 	https://github.com/Bilibili/MagicaSakura	
+720082	MVVMHabit	In perfect...	https://github.com/goldze/MVVMHabit	
+552477	PopupDialog	"A simple, customizable popup dialog"	https://github.com/Orderella/PopupDialog	
+608808	basicScroll		https://github.com/electerious/basicScroll	
+569547	react-native-video	A <Video /> component for react-native	https://github.com/react-native-community/react-native-video	
+854891	mace		https://github.com/XiaoMi/mace	
+649449	TinyConstraints	Nothing but sugar.	https://github.com/roberthein/TinyConstraints	
+599350	Kotlin-Tutorials	é_èçù€Kotlinè¶_æù¥è¶_æˆêç†Ÿç¨_å®_ï_Œæˆ‘å·_ç»èå_€å§‹åœ¨ç”Ÿäº§ç_¯å¢ƒä¸_ä_¿ç”¨å®ƒã€‚è€ƒè™‘åˆ°ç›®å‰çå›_å†…èµ„æ–™è_ƒå°‘ï_Œä_œä¸ºæ_›ç –å_•ç_‰ï_Œè¿‘æœŸæˆ‘å_€å§‹ç__åˆ’å_•åˆ¶ä¸€å¥—è§†é¢‘æ•™ç¨‹ã€‚	https://github.com/enbandari/Kotlin-Tutorials	
+403035	Swinject	Dependency injection framework for Swift	https://github.com/Swinject/Swinject	
+588466	react-native-splash-screen		https://github.com/crazycodeboy/react-native-splash-screen	
+573764	react-native-styling-cheat-sheet		https://github.com/vhpoet/react-native-styling-cheat-sheet	
+823165	devdocs	API Documentation Browser	https://github.com/freeCodeCamp/devdocs	
+748	redmine	Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com	https://github.com/redmine/redmine	
+610998	React-Native-Apps	Curated List of Open Source React Native Apps	https://github.com/ReactNativeNews/React-Native-Apps	
+400199	FlexibleAdapter	"1 Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable :-)"	https://github.com/davideas/FlexibleAdapter	
+769482	smartTable	ä¸€æ¬_androidè‡ªå_¨ç”Ÿæˆêè¡¨æ _æ¡†æ_¶---A Android automatically generated table framework	https://github.com/huangyanbin/smartTable	
+386896	laravel-backup	A package to backup your Laravel 5 app	https://github.com/spatie/laravel-backup	
+697105	SwiftTips	A collection of Swift tips & tricks that I've shared on Twitter	https://github.com/JohnSundell/SwiftTips	
+5250	lsyncd	Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets	https://github.com/axkibe/lsyncd	
+566434	IBAnimatable	"Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable."	https://github.com/IBAnimatable/IBAnimatable	
+487233	circle-menu	"CircleMenu is a simple, elegant menu with a circular layout."	https://github.com/Ramotion/circle-menu	
+518763	fantastic-ios-architecture	Better ways to structure apps	https://github.com/onmyway133/fantastic-ios-architecture	
+578607	react-native-svg	SVG library for React Native.	https://github.com/react-native-community/react-native-svg	
+88813	aws-sdk-php	Official repository of the AWS SDK for PHP (@awsforphp)	https://github.com/aws/aws-sdk-php	
+14363	hue	Letâ€™s Big Data. Hue is an open source Web interface for analyzing data with Hadoop and Spark.	https://github.com/cloudera/hue	
+691769	ish		https://github.com/tbodt/ish	
+364608	tcomb-form-native	Forms library for react-native	https://github.com/gcanti/tcomb-form-native	
+179300	Android	Android related examples	https://github.com/hmkcode/Android	
+61347	android	:phone: The ownCloud Android App	https://github.com/owncloud/android	
+842174	react-native-dom	"An experimental, comprehensive port of React Native to the web."	https://github.com/vincentriemer/react-native-dom	
+460983	dev-setup	"Mac OS X development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android "	https://github.com/donnemartin/dev-setup	
+769408	Optimizing-Swift-Build-Times	Collection of advice on optimizing compile times of Swift projects.	https://github.com/fastred/Optimizing-Swift-Build-Times	
+644688	ShapeShifter		https://github.com/alexjlockwood/ShapeShifter	
+830208	FlutterExampleApps	"[Example APPS] Basic Flutter apps, for flutter devs."	https://github.com/iampawan/FlutterExampleApps	
+833181	SwiftEntryKit	In App notification views made easier.	https://github.com/huri000/SwiftEntryKit	
+642152	material-kit	 Free Bootstrap Material Design UI Kit	https://github.com/creativetimofficial/material-kit	
+691854	Pastel	Pastel Gradient Animation View	https://github.com/cruisediary/Pastel	
+11677	TouchSwipe-Jquery-Plugin	"TouchSwipe is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc. "	https://github.com/mattbryson/TouchSwipe-Jquery-Plugin	
+795806	qr-filetransfer		https://github.com/claudiodangelis/qr-filetransfer	
+90726	aws-sdk-ruby	The official AWS SDK for Ruby.	https://github.com/aws/aws-sdk-ruby	
+682752	webtorrent-desktop	":heart: Streaming torrent app for Mac, Windows, and Linux (BitTorrent/WebTorrent)"	https://github.com/webtorrent/webtorrent-desktop	
+467227	XLActionController	Fully customizable and extensible action sheet controller written in Swift 2	https://github.com/xmartlabs/XLActionController	
+581153	dat	:floppy_disk: open source peer to peer data sharing	https://github.com/datproject/dat	
+654625	reactivesearch	(in the works) A data aware UI components library for building search experiences	https://github.com/appbaseio/reactivesearch	
+255994	egret-core	"Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows."	https://github.com/egret-labs/egret-core	
+381102	git-it-electron	:computer: :mortar_board: A Git-it Desktop App	https://github.com/jlord/git-it-electron	
+374346	YoCelsius	ä¸€æ¬_å_©æ°”é¢„æ_¥ç_„åº”ç”¨ï_ˆå·_åœ¨AppStoreä¸_çº¿ï_‰	https://github.com/YouXianMing/YoCelsius	
+531603	BuildTimeAnalyzer-for-Xcode		https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode	
+331682	Siren	"Notify users when a new version of your iOS app is available, and prompt them with the App Store link. Sire is a Swift port of the Objective-C 'Harpy' repository."	https://github.com/ArtSabintsev/Siren	
+395578	ZipArchive	ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.	https://github.com/ZipArchive/ZipArchive	
+668028	AAChartKit	A friendly chart library for iOS developer	https://github.com/AAChartModel/AAChartKit	
+799453	Signal-Android	A private messenger for Android.	https://github.com/signalapp/Signal-Android	
+532717	iOS-Performance-Optimization	å…_äº_iOS æ€§èƒ_ä_˜åŒ–æ¢_çê†ã€Åå†…å_˜æ_„éœ_ã€Ååç¡é¡¿ã€Åç_‘ç»œã€ÅGPUã€Åç”µé‡èã€Å App åŒ…ä_“ç§¯ç˜_èº«ã€Ååê¯å_¨é€Ÿåº_ä_˜åŒ–ç_‰ã€ÅInstruments é«˜çº§æ_€å·§ã€Åå¸¸è§Åç_„ä_˜åŒ–æ_€èƒ_- Get â€” Edit	https://github.com/skyming/iOS-Performance-Optimization	
+371469	GuillotineMenu	Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.	https://github.com/Yalantis/GuillotineMenu	
+198019	Cerberus	"A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail."	https://github.com/TedGoas/Cerberus	
+527519	paper-onboarding		https://github.com/Ramotion/paper-onboarding	
+643910	boxing	Android multi-media selector based on MVP mode.	https://github.com/Bilibili/boxing	
+802975	filebrowser	:file_folder: Web File Manager which can be used as a middleware or standalone app.	https://github.com/filebrowser/filebrowser	
+330895	Gadgetbridge	A free and cloudless replacement for your gadget vendors' closed source Android applications. Pebble and Mi Band supported.	https://github.com/Freeyourgadget/Gadgetbridge	
+379117	Presentation	"Presentation helps you to make tutorials, release notes and animated pages."	https://github.com/hyperoslo/Presentation	
+480307	junit5	The next generation of JUnit.	https://github.com/junit-team/junit5	
+599259	androidannotations	Fast Android Development. Easy maintainance.	https://github.com/androidannotations/androidannotations	
+392797	TOCropViewController	A view controller that allows users to crop UIImage objects.	https://github.com/TimOliver/TOCropViewController	
+130913	ioscreator	Tutorials from ioscreator.com	https://github.com/ioscreator/ioscreator	
+715433	franz		https://github.com/meetfranz/franz	
+900817	learn-react-app	Application that will help you learn React fundamentals.	https://github.com/tyroprogrammer/learn-react-app	
+253518	xamarin-forms-samples	Sample apps built using the Xamarin.Forms framework	https://github.com/xamarin/xamarin-forms-samples	
+821	Reader	PDF Reader Core for iOS	https://github.com/vfr/Reader	
+456464	requery	requery - compile time ORM and SQL query library for Java & Android	https://github.com/requery/requery	
+743897	yanxuan-weex-demo	yanxuan app demo by weex	https://github.com/zwwill/yanxuan-weex-demo	
+384733	EasyAnimation	"A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!"	https://github.com/icanzilb/EasyAnimation	
+249808	shairport-sync	AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation	https://github.com/mikebrady/shairport-sync	
+750224	react-native-paper	Material Design for React Native	https://github.com/callstack/react-native-paper	
+482317	tachiyomi		https://github.com/inorichi/tachiyomi	
+324886	ChinaMobilePhoneNumberRegex	åŒ_é…çä¸_å›_å_§é™†æ‰‹æœºåè·ç Å	https://github.com/VincentSit/ChinaMobilePhoneNumberRegex	
+426350	ActiveLabel.swift	"UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift"	https://github.com/optonaut/ActiveLabel.swift	
+603212	SuperTextView	å_Ÿèƒ_å_ºå_§ç_„TextView	https://github.com/lygttpod/SuperTextView	
+17949	tess-two	Fork of Tesseract Tools for Android.	https://github.com/rmtheis/tess-two	
+702483	ionicons	The premium icon font for Ionic	https://github.com/ionic-team/ionicons	
+575662	express-status-monitor	"???? Realtime Monitoring solution for Express.js apps, inspired by status.github.com"	https://github.com/RafalWilinski/express-status-monitor	
+811068	gifski-app	Convert videos to high-quality GIFs on your Mac	https://github.com/sindresorhus/gifski-app	
+338588	Developing_iOS_8_Apps_With_Swift	Stanford å…¬å_€è¯_ï_ŒDeveloping iOS 8 Apps with Swift å_—å_•ç¿»è¯‘	https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift	
+897245	HistoryOfEverything	Flutter Launch Timeline Demo	https://github.com/2d-inc/HistoryOfEverything	
+70767	android-saripaar	UI form validation library for Android	https://github.com/ragunathjawahar/android-saripaar	
+620777	corda	Corda core	https://github.com/corda/corda	
+540799	AlloyFinger	 multi-touch gestures library for the web	https://github.com/AlloyTeam/AlloyFinger	
+411565	RichText	Androidå__åè°ä¸‹ç_„å¯Œæ–‡æœ¬æ˜_ç_ºæ_§ä»¶	https://github.com/zzhoujay/RichText	
+449132	PhoneNumberKit	"A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber."	https://github.com/marmelroy/PhoneNumberKit	
+694462	SpreadsheetView	"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart, timetable as if you are using Excel."	https://github.com/kishikawakatsumi/SpreadsheetView	
+639664	bluepill	Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine	https://github.com/linkedin/bluepill	
+578637	FastBle	Android BLE è“ùç‰™å_€åè‘æ¡†æ_¶ï_Œä_¿ç”¨å›_è°ƒæ–_å_èå_„çê†ï_Œæêœç´¢ã€Åè¿_æ_¥ã€Ånotifyã€Åindicateã€Åè¯»ã€Åå†™ç_‰ä¸€ç_»åˆ—è“ùç‰™æ“çä_œã€‚	https://github.com/Jasonchenlijian/FastBle	
+481618	BasePopup	// æ‰“é€ é€_ç”¨ç_„popupwindow	https://github.com/razerdp/BasePopup	
+488731	Awesome-Swift-Playgrounds	A List of Awesome Swift Playgrounds!	https://github.com/uraimo/Awesome-Swift-Playgrounds	
+241987	kendo-ui-core	"An HTML5, jQuery-based widget library for building modern web apps."	https://github.com/telerik/kendo-ui-core	
+578490	SwiftFormat	A command-line tool for formatting Swift code	https://github.com/nicklockwood/SwiftFormat	
+592850	firefox-ios	Firefox for iOS	https://github.com/mozilla-mobile/firefox-ios	
+596462	habitica	A habit tracker app which treats your goals like a Role Playing Game.	https://github.com/HabitRPG/habitica	
+513357	react-native-material-ui		https://github.com/xotahal/react-native-material-ui	
+422592	kotlin-in-chinese	kotlin å®˜æ–_æ–‡æ¡£ç¿»è¯‘	https://github.com/huanglizhuo/kotlin-in-chinese	
+137901	CotEditor	Lightweight Plain-Text Editor for OS X	https://github.com/coteditor/CotEditor	
+549585	LayoutKit		https://github.com/linkedin/LayoutKit	
+472891	Then	âœ¨ Super sweet syntactic sugar for Swift initializers.	https://github.com/devxoul/Then	
+339994	awesome-test-automation	"A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages"	https://github.com/atinfo/awesome-test-automation	
+5584	angular-phonecat	Tutorial on building an angular application.	https://github.com/angular/angular-phonecat	
+681895	react-native-fast-image		https://github.com/DylanVann/react-native-fast-image	
+336076	Side-Menu.iOS	Animated side menu with customizable UI	https://github.com/Yalantis/Side-Menu.iOS	
+3212	cocos2d-html5	cocos2d for Web Browsers. Built using JavaScript	https://github.com/cocos2d/cocos2d-html5	
+236701	copay	A multisignature wallet.	https://github.com/bitpay/copay	
+391064	MasteringAndroidDataBinding	A comprehensive tutorial for Android Data Binding	https://github.com/LyndonChin/MasteringAndroidDataBinding	
+112499	django-cors-headers	Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)	https://github.com/ottoyiu/django-cors-headers	
+597358	react-redux-realworld-example-app	An example real world application built with Redux	https://github.com/gothinkster/react-redux-realworld-example-app	
+591232	status-react		https://github.com/status-im/status-react	
+634800	compiler-explorer	Run GCC (and other compilers) interactively from your web browser and experiment with its generated code	https://github.com/mattgodbolt/compiler-explorer	
+178593	mobile-detect.js	"Device detection (phone, tablet, desktop, mobile grade, os, versions)"	https://github.com/hgoebl/mobile-detect.js	
+624428	thingsboard	Thingsboard IoT Platform	https://github.com/thingsboard/thingsboard	
+851666	XXPermissions		https://github.com/getActivity/XXPermissions	
+854690	CrunchyCalendar	"A beautiful material calendar with endless scroll, range selection and a lot more!"	https://github.com/CleverPumpkin/CrunchyCalendar	
+855993	UserDefaultsStore	Why not use UserDefaults to store Codable objects ????	https://github.com/omaralbeik/UserDefaultsStore	
+854901	top	Top App Developers	https://github.com/app-developers/top	
+853929	ladybug	Handle rdar:// links gracefully	https://github.com/ethanhuang13/ladybug	
+854065	android-face-detector	A face detection Android library	https://github.com/husaynhakeem/android-face-detector	
+836796	IndicatorFastScroll		https://github.com/reddit/IndicatorFastScroll	
+850482	CrashSDK	capture crash on Android(arm/x86)	https://github.com/SummerOak/CrashSDK	
+840855	Web	"ÂµPad is an open digital note taking app. ÂµPad works with the open XML-based format: NPX, so anyone can implement it into their software allowing a truly open and free experience."	https://github.com/MicroPad/Web	
+855610	AppUpdater	initial	https://github.com/jenly1314/AppUpdater	
+846520	simple-vlc-player	An Android library that aims to simplify VLC media playback when casting or playing locally.	https://github.com/masterwok/simple-vlc-player	
+851318	react-native-easy-router		https://github.com/sergeyshpadyrev/react-native-easy-router	
+824262	CameraRecorder-android		https://github.com/MasayukiSuda/CameraRecorder-android	
+836353	EasyValidation	A text and input validation library in Kotlin for Android	https://github.com/wajahatkarim3/EasyValidation	
+834009	appkernel	Python micro-services made easy / a beautiful and opinionated micro-service chassis 	https://github.com/accelero-cloud/appkernel	
+846833	androme	Converts and optimizes HTML pages into the various standard Android layouts in XML. Resources and drawables are also auto-generated. iOS and Xamarin Forms will be supported as well.	https://github.com/anpham6/androme	
+816072	Bark		https://github.com/Finb/Bark	
+743233	iOS-Security-Guides	iOS security white papers	https://github.com/0xmachos/iOS-Security-Guides	
+841964	android-test	An extensive framework for testing Android apps	https://github.com/android/android-test	
+851237	contacts		https://github.com/harsh159357/contacts	
+814274	simple-keyboard	Simple React.js Virtual Keyboard - no jQuery dependency.	https://github.com/hodgef/simple-keyboard	
+853344	KotlinSnapshot	Snapshot Testing in Kotlin	https://github.com/Karumi/KotlinSnapshot	
+822341	WeScan	Document Scanning Made Easy for iOS	https://github.com/WeTransfer/WeScan	
+854505	BookPlayer	Player for your DRM-free audiobooks	https://github.com/TortugaPower/BookPlayer	
+854581	flutter-webrtc-server	A Dart WebRTC Signaling server for flutter-webrtc and html5.	https://github.com/cloudwebrtc/flutter-webrtc-server	
+854261	WalleLibrary	Android library æ–_ä_¿å_€åè‘	https://github.com/moz1q1/WalleLibrary	
+851475	ant-design-mobile-chart	Ant Design Mobile Chart based on F2	https://github.com/ant-design/ant-design-mobile-chart	
+855555	simple_auth	The Simplest way to Authenticate in Flutter	https://github.com/Clancey/simple_auth	
+854879	MobileNet-YOLO		https://github.com/eric612/MobileNet-YOLO	
+839001	ArcSlidingHelper	Androidå_§å_¢æ»‘å_¨è_…å_©	https://github.com/wuyr/ArcSlidingHelper	
+830561	jndcrash	A Java wrapper over NDCrash C library https://github.com/ivanarh/ndcrash	https://github.com/ivanarh/jndcrash	
+855545	Hero	Elegant transition library for iOS & tvOS	https://github.com/HeroTransitions/Hero	
+849145	guardian	Your guardian for permissions. Stop those who aren't invited to the party.	https://github.com/rennokki/guardian	
+852772	saas	build your own SaaS product with Async SaaS boilerplate app	https://github.com/async-labs/saas	
+842492	BlueSwift		https://github.com/netguru/BlueSwift	
+812379	phonegap-template	A template for an Android application using PhoneGap with material-ui	https://github.com/mrkipling/phonegap-template	
+673505	trackerjacker	Tracks WiFi devices by capturing raw 802.11 frames in monitor mode	https://github.com/calebmadrigal/trackerjacker	
+818717	rnset	A demonstrate project of react native and integrated & verified opened react native components 	https://github.com/suijunqiang/rnset	
+823568	EasyRouter		https://github.com/Xiasm/EasyRouter	
+854151	ZYMK	ä»¿çŸ¥éŸ_æ_«å®¢å®¢æˆ·ç«¯ã€‚	https://github.com/wzmyyj/ZYMK	
+849549	samples	A collection of Flutter examples and demos.	https://github.com/flutter/samples	
+853063	shepherd	Guide your users through a tour of your app #hubspot-open-source	https://github.com/shipshapecode/shepherd	
+838257	JCNavigator		https://github.com/imjoych/JCNavigator	
+803456	apify-js	Apify Actor runtime for JavaScript / Node.js	https://github.com/apifytech/apify-js	
+853643	GDMS-DeviceManagementSystem	åŸºäº_webç_„è®_å_‡ç®¡çê†ç_»ç»Ÿï_Œå‰çåê_ç«¯åˆ†ç_»	https://github.com/manier13579/GDMS-DeviceManagementSystem	
+849676	SnippetStore	A snippet management app for developers	https://github.com/ZeroX-DG/SnippetStore	
+842367	alpha	Alphaæ˜¯ä¸€ä¸ªåŸºäº_PERTå›_æ_„å»ºç_„Androidå_‚æ_¥åê¯å_¨æ¡†æ_¶ï_Œå®ƒç®€åç•ï_Œé«˜æ•ˆï_Œå_Ÿèƒ_å®Œå–„ã€‚ åœ¨åº”ç”¨åê¯å_¨ç_„æ—¶å€™ï_Œæˆ‘ä»¬é€_å¸¸ä__æœ‰å_ˆå__å·¥ä_œéœ€è_ÅåÅ_ï_Œä¸ºäº†æèêé«˜åê¯å_¨é€Ÿåº_ï_Œæˆ‘ä»¬ä__å°_åè¯èƒ_è®©è¿™äº›å·¥ä_œå_¶åè‘è¿›è¡Œã€‚ä_†è¿™äº›å·¥ä_œä_‹é—´åè¯èƒ_å_˜åœ¨å‰çåê_ä_ùèµ–ç_„å…_ç_»ï_Œæ‰€ä»¥æˆ‘ä»¬åèˆéœ€è_Åæƒ_å__æ_•ä¿ùè¯Åä»–ä»¬æ‰§è¡Œé¡ºåºèç_„æ_£ç¡®æ€§ã€‚Alphaå°±æ˜¯ä¸ºæ__è€Œè®_è®¡ç_„ï_Œä_¿ç”¨è€…åèªéœ€å®_ä_‰å¥_è‡ªå·±ç_„taskï_Œå_¶æèèè¿°å®ƒä_ùèµ–ç_„taskï_Œå°†å®ƒæ·»å_ åˆ°Projectä¸_ã€‚æ¡†æ_¶ä__è‡ªå_¨å_¶åè‘æœ‰åºèåœ°æ‰§è¡Œè¿™äº›taskï_Œå_¶å°†æ‰§è¡Œç_„ç»“æ_œæ_›å‡ºæù¥ã€‚	https://github.com/alibaba/alpha	
+847313	go-structure-examples	Examples for my talk on structuring go apps	https://github.com/katzien/go-structure-examples	
+785572	blog_backups	Android é¡_ç›®ä_˜åŒ–ã€Åéù¢è¯•é¢˜é›†ï_ŒåŒ…åê«Androidã€ÅJavaã€Åæ•°æç®ç»“æ_„ã€Åç®—æ_•ã€Åä¸ªäººblogå_‡ä»_ç_‰ã€‚	https://github.com/crazyandcoder/blog_backups	
+839465	Bassa-mobile	Bassa mobile	https://github.com/scorelab/Bassa-mobile	
+851287	koin	KOIN - a pragmatic lightweight dependency injection framework for Kotlin https://insert-koin.io/	https://github.com/InsertKoinIO/koin	
+815603	UnityCapture	"Unity3D Virtual webcam plugin, streams unity viewport contents to other applications as virtual camera"	https://github.com/schellingb/UnityCapture	
+779860	validatetor	Android library for fast and simple string validation	https://github.com/nisrulz/validatetor	
+813706	JReadHub	Readhub Android client	https://github.com/guanpj/JReadHub	
+854339	Sica	Sica can execute various animations sequentially or parallely	https://github.com/cats-oss/Sica	
+841725	swiftProject	swifté¡_ç›®	https://github.com/NJHu/swiftProject	
+851745	functions-serverless-chat-app-tutorial	"Tutorial for building a serverless chat app with Azure Functions, SignalR Service, and Cosmos DB"	https://github.com/Azure-Samples/functions-serverless-chat-app-tutorial	
+852052	bloqly	Bloqly Project:  JavaScript Smart Contracts Engine	https://github.com/bloqly/bloqly	
+811902	hcxdumptool		https://github.com/ZerBea/hcxdumptool	
+847773	ABridge	the abridge for android ipc	https://github.com/yifei8/ABridge	
+855991	react-native-articles	React Native Articles	https://github.com/burhanyilmaz/react-native-articles	
+841521	Meshenger	open-source P2P messenger	https://github.com/dakhnod/Meshenger	
+854447	ketro	Retrofit 2 wrapper written in Kotlin which makes it easier to get LiveData values from a REST API client	https://github.com/smilecs/ketro	
+820519	Android-Tips		https://github.com/RealMoMo/Android-Tips	
+613910	Analysis		https://github.com/BasThomas/Analysis	
+855020	calepin-frontend		https://github.com/orditeck/calepin-frontend	
+838174	Delir	Web Tech driven Hackable VFX App	https://github.com/ra-gg/Delir	
+831065	cp8	GitHub review bot	https://github.com/cookpad/cp8	
+766212	AlarmAndJob	æœ‰æù¡ä»¶è‡ªå_¨é‡çåê¯ç_„æœçå_¡	https://github.com/dxsdyhm/AlarmAndJob	
+837832	TextureSignalProcessing	Gradient-Domain Processing within a Texture Atlas	https://github.com/mkazhdan/TextureSignalProcessing	
+813817	ReactNative-Book-Demo		https://github.com/ParryQiu/ReactNative-Book-Demo	
+843615	OmniThing	A cross-platform successor to ST_Anything	https://github.com/DanielOgorchock/OmniThing	
+855322	Instabug-Android	Bug reporting tool for Android apps	https://github.com/Instabug/Instabug-Android	
+843891	python-aiocqhttp	A Python SDK with acync I/O for CoolQ HTTP API plugin.	https://github.com/richardchien/python-aiocqhttp	
+848458	create-fusion-app		https://github.com/fusionjs/create-fusion-app	
+849313	react-native-workshop	This repository is for the react-native-workshop materials	https://github.com/ReactBangalore/react-native-workshop	
+837631	augur-app	Augur Desktop Electron Application	https://github.com/AugurProject/augur-app	
+825597	trace		https://github.com/trentpiercy/trace	
+845979	Android-Cheat-sheet	Cheat Sheet for Android Interviews	https://github.com/anitaa1990/Android-Cheat-sheet	
+831022	LNPropertyListEditor	"A property list editor for macOS, similar to Xcode's."	https://github.com/LeoNatan/LNPropertyListEditor	
+852743	fatturapa-php-sdk	PHP SDK per la fatturazione elettronica	https://github.com/italia/fatturapa-php-sdk	
+794288	node-basic-boilerplate-docker		https://github.com/gmoralesc/node-basic-boilerplate-docker	
+854393	Xam.Plugin.SimpleAppIntro	Just a nice and simple AppIntro for your Xamarin Forms project	https://github.com/galadril/Xam.Plugin.SimpleAppIntro	
+781812	android-week-calendar		https://github.com/chenyongci/android-week-calendar	
+851508	cnoder	Yet another CNode Flutter App	https://github.com/ali322/cnoder	
+808061	FullMaterialLoader	FullMaterialLoader is the swift library to show and animate the loader	https://github.com/sathishvgs/FullMaterialLoader	
+844571	config-preview-sdk	Preview SDK for orb authors	https://github.com/CircleCI-Public/config-preview-sdk	
+814223	react-simple-keyboard	Simple React.js Virtual Keyboard - no jQuery dependency.	https://github.com/hodgef/react-simple-keyboard	
+842366	JsonLube	ä¸ºäº†é«˜æ•ˆåœ°å°†Jsonå¯_è±¡è_¬åŒ–æˆêJava beanå¯_è±¡ï_Œä_ ç»Ÿä¸_æˆ‘ä»¬æ˜¯åœ¨è¿êè¡Œæ˜¯åˆ©ç”¨åèçå°„æù¥å®_ç_°ã€‚ä_†æ˜¯åœ¨ç§»å_¨å__åè°ä¸_ï_Œéù¢å¯_å_çæù‚ç_„Jsonï_Œé‡‡ç”¨åèçå°„ç_„æ–_å_èå_€å_€æ€§èƒ_æ¯”è_ƒå·®ï_Œä¸ºäº†è¿_æ±‚æ_Åè‡´ç_„æ€§èƒ_ï_Œæˆ‘ä»¬åè¯ä»¥é‡‡ç”¨Androidå_Ÿç”Ÿç_„Jsonåº“è¿›è¡Œè§£æ_êã€‚ä_†æ˜¯éù¢å¯_ä¸€ä¸ªå_çæù‚ç_„å_§Jsonï_ŒåŸºäº_å_Ÿç”ŸJsonåº“å_»æ‰‹å_¨è§£æ_êå·¥ä_œé‡èå_ªå_§ï_Œä¸”å®_æ˜“å‡ºé”™ã€‚JsonLubeæ˜¯ä¸ºæ__è€Œè®_è®¡ç_„ã€‚JsonLubeä__åœ¨ç_–è¯‘æœŸè‡ªå_¨ç”ŸæˆêJsonè§£æ_êä»£ç Åï_Œç”¨æˆ·ä_¿ç”¨æ–_å_èç®€åç•ï_Œä_†æ˜¯åç´èƒ_æ”¶è_·å_Ÿç”Ÿè§£æ_êç_„æ€§èƒ_ã€‚	https://github.com/alibaba/JsonLube	
+844825	Optimize		https://github.com/anitaa1990/Optimize	
+817828	fsig	Send signals to a subprocess when files change	https://github.com/sagikazarmark/fsig	
+838233	FGO-Planning-Tool		https://github.com/ssttkkl/FGO-Planning-Tool	
+844165	SignalR	SignalR Core support for Microsoft AspNet Core Blazor	https://github.com/BlazorExtensions/SignalR	
+838434	libiocm	ä¸_å›_ç”µä¿¡ç‰©èÅ”ç_‘å_€æ”_å__åè°APIå¯_æ_¥åº“	https://github.com/zeevin/libiocm	
+855894	duoduoke-sdk	å__å__å®¢API SDK	https://github.com/justmd5/duoduoke-sdk	
+855125	livedata-ktx	"Kotlin extension for LiveData, chaining like RxJava"	https://github.com/Shopify/livedata-ktx	
+372558	Form	The most flexible and powerful way to build a form on iOS	https://github.com/3lvis/Form	
+832695	MapMoves	Import from Moves app to Unity	https://github.com/bionicl/MapMoves	
+850371	react-native-template-pro	React Native template with async and debugging tools.	https://github.com/thiagobrez/react-native-template-pro	
+826170	ZimLX	Open Source and free launcher for Android	https://github.com/otakuhqz/ZimLX	
+846798	eDistantObject		https://github.com/google/eDistantObject	
+851057	datetime_picker_formfield	A Flutter widget that wraps a TextFormField and integrates the date and/or time picker dialogs.	https://github.com/jifalops/datetime_picker_formfield	
+852465	web-foundation	"Principles, decision logs, and best practices for building web apps at Shopify"	https://github.com/Shopify/web-foundation	
+827460	fenix	Fenix is not your parent's Android browser.	https://github.com/mozilla-mobile/fenix	
+836000	urban	Dark themes inspired by Xcode's Civic theme	https://github.com/divadretlaw/urban	
+722524	PickerView	Androidæ»_å_¨é€‰æ‹©å™¨	https://github.com/duanhong169/PickerView	
+740284	react-native-shop-ui	A react native clothes shopping UI template with storage and user management.	https://github.com/ATF19/react-native-shop-ui	
+847637	mobile-ffmpeg	Source code and scripts to build FFmpeg for Android platform and IOS platform	https://github.com/tanersener/mobile-ffmpeg	
+823609	PopItUp	a Popup system for iOS	https://github.com/fritzgerald/PopItUp	
+849509	react-native-fix-xcode-10	Fix Xcode 10 beta 1 issues with compiling React Native apps	https://github.com/rhdeck/react-native-fix-xcode-10	
+845996	Localizr.swift	Simplified Localization library in IOS.	https://github.com/michaelhenry/Localizr.swift	
+855782	SwiftyCodeView		https://github.com/arturdev/SwiftyCodeView	
+848051	hn_app	The HN reader app developed live on The Boring Flutter Development Show	https://github.com/filiph/hn_app	
+823266	blue-notes	Twelve classic Blue Note album sleeves recreated in the browser using HTML and CSS.	https://github.com/stevehoneyman/blue-notes	
+852691	txai	è…_è®¯AIå_€åè‘å__åè°sdk	https://github.com/shiguanghuxian/txai	
+833972	Promega		https://github.com/PrintM3D/Promega	
+849937	traveling_salesman_demo		https://github.com/thomasnield/traveling_salesman_demo	
+828591	tailor_made	A Flutter experiment.	https://github.com/jogboms/tailor_made	
+815647	miniApps	äº«ä¸ƒå_®ä¿¡å°èç¨‹åºè	https://github.com/hbxq2018/miniApps	
+842732	react-native-boilerplate	???? React Native Boilerplate 	https://github.com/victorkvarghese/react-native-boilerplate	
+824471	SamMitiAR-iOS		https://github.com/prolificinteractive/SamMitiAR-iOS	
+842830	RainbowMiner	A windows multi pool switching miner script	https://github.com/RainbowMiner/RainbowMiner	
+776706	UberEATS		https://github.com/sean7218/UberEATS	
+854799	lightify	a reverse proxy that just minify and compress the output	https://github.com/alash3al/lightify	
+854021	rn-fetch-blob	"A project committed to making file access and data transfer easier, efficient for React Native developers."	https://github.com/joltup/rn-fetch-blob	
+849400	OXChart	åê„ç§çè‡ªå®_ä_‰å›_è¡¨åº“ï_Œä_¿ç”¨ç®€åç•ï_Œæ”¯æŒÅæ‰©å±•	https://github.com/openXu/OXChart	
+835019	RWidgetHelper	ç»§æ‰¿åŸºç¡€æ_§ä»¶ 1.ä»£æ›¿selecterç›´æ_¥è®_ç_®xmlå±_æ€§å®_ç_°åœ†å_¢ï_Œåœ†è§’ï_ŒæŸêä¸€æ–_åê‘åœ†è§’ 2.åê„ä¸ªstateç_¶æ€ÅèƒŒæ™¯/è__æ¡†/æ–‡å_—åè˜è‰_ 	https://github.com/RuffianZhong/RWidgetHelper	
+855025	AccordionSwift	The best way of implement an accordion menu using an UITableView in Swift	https://github.com/Vkt0r/AccordionSwift	
+851026	signal-hook	Library allowing to register multiple handlers for the same signal	https://github.com/vorner/signal-hook	
+852544	flowa	Flow control for Node.js	https://github.com/faressoft/flowa	
+813860	kotlin-ktor-exposed-starter	"Starter REST service using Kotlin, Ktor and Exposed"	https://github.com/raharrison/kotlin-ktor-exposed-starter	
+842495	frameDemoMo2	Androidç»„ä»¶åŒ–é¡_ç›®æ¡†æ_¶	https://github.com/tome34/frameDemoMo2	
+853322	plans	"Laravel Plans is a package for SaaS-like apps that need easy management over plans, features and event-driven updates on plans."	https://github.com/rennokki/plans	
+724495	AndroidOpenGLTutorial	Android OpenGL ES Development Tutorials	https://github.com/glumes/AndroidOpenGLTutorial	
+830981	community	Here are some sample swift files to be used in the Swift for Arduino IDE.	https://github.com/swiftforarduino/community	
+711275	blog	"Articles about Swift, ï£¿ Platforms, and Software Engineering."	https://github.com/oliverrussellwhite/blog	
+854452	aic-mobile-android	Art Institute of Chicago Official Mobile App - Android	https://github.com/art-institute-of-chicago/aic-mobile-android	
+851054	Uno.WindowsCommunityToolkit	"The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation."	https://github.com/nventive/Uno.WindowsCommunityToolkit	
+672555	MagiRefresh	"Swiftç‰ˆMJRefresh,ä_†æ˜¯è‚¯å®_ä¸çæ˜¯ä¸€æ ·ç_„æ€ùè·¯éƒ_åº”è¯¥ä¸€æ ·,åè_å_–æˆ‘ä_¿ç”¨äº†runtime,ä_Ÿå°±æ˜¯Swiftç_„å_–è¡£ä¸‹éù¢ä_Ÿç”¨äº†OCå_‚æ_œä»¥åê_æœ‰è§£å†_å__æ_•,ä_‹åê_è‚¯å®_ä__æ›´æ–°ç_„"	https://github.com/AnRanScheme/MagiRefresh	
+851039	VaporElasticsearch		https://github.com/ryangrimm/VaporElasticsearch	
+846586	loco-answers	This a open source Android app for LOCO ANSWERS 	https://github.com/SubhamTyagi/loco-answers	
+841339	Earthquake-Data-Mapper		https://github.com/NilsBacke/Earthquake-Data-Mapper	
+851018	Carlos	A simple but flexible cache	https://github.com/spring-media/Carlos	
+729698	packages	A collection of useful packages maintained by the Flutter team	https://github.com/flutter/packages	
+811037	recipe-api-only	"API server for recipe based projects. If you want to have an app or website with recipes, but don't want to spend a lot of time - this can be a good choice"	https://github.com/ChickenKyiv/recipe-api-only	
+849476	component-preview	Ionic v4 component preview app	https://github.com/ionic-team/component-preview	
+847443	MviDroid	MVI framework designed for Android	https://github.com/arkivanov/MviDroid	
+811213	OpenYourEyes	ä»¿å_€çœ_å®¢æˆ·ç«¯-ä»…ä_›å__ä_ ä_¿ç”¨	https://github.com/SherlockGougou/OpenYourEyes	
+778265	KDispatcher	Simple event dispatcher	https://github.com/Rasalexman/KDispatcher	
+799346	what-to-wear	A bot that tells you what to wear every day	https://github.com/rohanp/what-to-wear	
+845553	kotlin-mpp-example	Example of Kotlin multiplatform project	https://github.com/JetBrains/kotlin-mpp-example	
+642665	swiftshield	Swift Classes Protector	https://github.com/rockbruno/swiftshield	
+640885	slim.js	slim.js robust web components with less code	https://github.com/slimjs/slim.js	
+801278	WebSocketDemo		https://github.com/0xZhangKe/WebSocketDemo	
+842800	better-onetab	A better onetab for chrome	https://github.com/cnwangjie/better-onetab	
+846739	TeamManagerApp	"A sample app structure using the MVVM architecture LiveData, RxJava, ViewModel, Room and the Navigation Arch Components."	https://github.com/Levi-Moreira/TeamManagerApp	
+850137	INA	Combined INA219 and INA226 Arduino library for reading multiple devices	https://github.com/SV-Zanshin/INA	
+802872	recyclerview-extensions	"RecyclerView Extensions, Mentalstack"	https://github.com/mentalstack/recyclerview-extensions	
+802249	simple-mern-passport	A template and tutorial for integrating passport to a MERN app.	https://github.com/b-bly/simple-mern-passport	
+854079	Rocket.Chat.Apps-cli	The Rocket.Chat Apps development environment.	https://github.com/RocketChat/Rocket.Chat.Apps-cli	
+845623	UINavigation	"A UE4 plugin designed to help easily make UMG menus navigable by mouse, keyboard and controller"	https://github.com/goncasmage1/UINavigation	
+789657	react-native-appicons	Create and manage application icons for RN Apps	https://github.com/rhdeck/react-native-appicons	
+854829	Adafruit_Blinka		https://github.com/adafruit/Adafruit_Blinka	
+853996	tikzDevice	A R package for producing graphics output as PGF/TikZ code for use in TeX documents.	https://github.com/daqana/tikzDevice	
+790943	universal-parallax	Easy parallax plugin using pure javascript. Also works on mobile platforms. Cross browser support.	https://github.com/marrio-h/universal-parallax	
+724212	flutter-test	Various test scenarios	https://github.com/xster/flutter-test	
+818206	MVICore		https://github.com/badoo/MVICore	
+814147	realtime_object_detection	Plug and Play Real-Time Object Detection App with Tensorflow and OpenCV. No Bugs No Worries. Enjoy!	https://github.com/naisy/realtime_object_detection	
+837530	mrpoid2018		https://github.com/Yichou/mrpoid2018	
+855454	PyFiSync		https://github.com/Jwink3101/PyFiSync	
+795685	CircleFloatBar	CircleFloatBar	https://github.com/RealMoMo/CircleFloatBar	
+813751	laravan	Ansible Playbooks for Laravel - machine provisioning and app deployment	https://github.com/jsphpl/laravan	
+825381	rick-morty-app	Rick and Morty information App	https://github.com/Bamii/rick-morty-app	
+841591	MERN-app	"Simple starter for the MERN stack (MongoDB, Express, React, Node.js) on Kubernetes"	https://github.com/IBM-Cloud/MERN-app	
+821410	HardwareVideoCodec	Hardware video recorder	https://github.com/lmylr/HardwareVideoCodec	
+808738	FlintDemo-iOS	iOS Demo app for Flint tools	https://github.com/MontanaFlossCo/FlintDemo-iOS	
+762516	APIJSONAuto	APIJSON Auto powered by Vue.js	https://github.com/TommyLemon/APIJSONAuto	
+842999	CryptoTracker		https://github.com/Blakexx/CryptoTracker	
+851339	appbuilder-portal	Portal for App Publishing Service	https://github.com/sillsdev/appbuilder-portal	
+854313	datum-sdk		https://github.com/Datum/datum-sdk	
+819675	react-native-aztec	Wrapping Aztec Android and Aztec iOS in a React Native component	https://github.com/wordpress-mobile/react-native-aztec	
+829445	BLE-iOS-demo		https://github.com/dzindra/BLE-iOS-demo	
+849556	ClassifierKit	???? A suite of tools and examples for training CoreML models with CreateML.	https://github.com/pdil/ClassifierKit	
+831334	flutter-movie-app	flutter	https://github.com/DhytoDev/flutter-movie-app	
+828333	react-native-date-picker		https://github.com/henninghall/react-native-date-picker	
+738044	articles	Code snippets for articles posted at 4comprehension.com	https://github.com/pivovarit/articles	
+854650	YNPageViewController	ScrollView--ç‰_æ–¯æ‹‰ç»„ä»¶ã€Åå__é¡µéù¢åµŒå¥—æ»_å_¨ã€Åæ‚¬åÅœæ•ˆæ_œã€Åç__å›¢ã€Åæ·˜å®ùã€Åäº¬ä¸œã€Åå_®åç_ã€Åè…_è®¯æ–°é—»ã€Åç_‘æ˜“æ–°é—»ã€Åä»_æ—¥å_´æù¡ç_‰æ ‡é¢˜æ»_å_¨è§†å›_	https://github.com/yongyuandouneng/YNPageViewController	
+848572	QQPurify	A Xposed module that hides the view that the Android QQ doesn't want to see.	https://github.com/zpp0196/QQPurify	
+852804	kritis		https://github.com/grafeas/kritis	
+844889	iosched-ios		https://github.com/google/iosched-ios	
+851024	lambda-proxy		https://github.com/puresec/lambda-proxy	
+846221	shinny-futures-android		https://github.com/shinnytech/shinny-futures-android	
+854392	flowr	declarative flow control components for React apps	https://github.com/monojack/flowr	
+853245	EthereumKit	"EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum."	https://github.com/D-Technologies/EthereumKit	
+831637	DTGradientButton	Easy way to set gradient background to your buttons.	https://github.com/tungvoduc/DTGradientButton	
+854440	MediaPickerPoject	Media Picker like Wechat  support Cordova ï_Œä»¿å_®ä¿¡è§†é¢‘å›_ç‰‡é€‰æ‹©å™¨ï_Œâœ¨æ”¯æŒÅcordovaè°ƒç”¨	https://github.com/DmcSDK/MediaPickerPoject	
+806243	Flint	FlintCore framework	https://github.com/MontanaFlossCo/Flint	
+823698	weapp	GO å_®ä¿¡å°èç¨‹åºè SDK	https://github.com/medivhzhan/weapp	
+838628	MobileFace	A face recognition solution on mobile device.	https://github.com/becauseofAI/MobileFace	
+850769	expedition	The Expedition monorepo	https://github.com/ExpeditionRPG/expedition	
+814599	swifty-sk-scroll-view	A Swift helper for integrating UIScrollViews in your spriteKit scenes.	https://github.com/crashoverride777/swifty-sk-scroll-view	
+844003	react-native-daummap		https://github.com/asata/react-native-daummap	
+847208	reason-expo	ReasonML bindings for Expo	https://github.com/FiberJW/reason-expo	
+843156	worldwind-react-globe	React Globe component built with NASA WorldWind	https://github.com/emxsys/worldwind-react-globe	
+752667	android_device_xiaomi_land		https://github.com/RiteshSaxena/android_device_xiaomi_land	
+844250	holochain-ui	React based UI for composing Holochain experiences.	https://github.com/holochain/holochain-ui	
+828759	SIM7500-LTE-Shield		https://github.com/botletics/SIM7500-LTE-Shield	
+832296	android_device_xiaomi_whyred		https://github.com/GuaiYiHu/android_device_xiaomi_whyred	
+845134	NavigationArchitecture	Android develpoment new Navigation Architecture Component	https://github.com/shanmugasanthosh7/NavigationArchitecture	
+841618	bsnav		https://github.com/fitodac/bsnav	
+851573	recheck-web	Web implementation of rechec	https://github.com/retest/recheck-web	
+798742	react-native-website	The site and docs for React Native	https://github.com/reactnativecn/react-native-website	
+711667	NKFrameLayoutKit	An auto layout kit	https://github.com/kennic/NKFrameLayoutKit	
+853849	Android-Knowledge	Androidæºêç Åï_Œå¸¸ç”¨ç_„ç¬¬ä¸‰æ–_åº“æºêç Åè§£æ_êä»¥åè_çŸ¥è¯†æ€»ç»“	https://github.com/24Kshign/Android-Knowledge	
+852834	calendar_views	Calendar Views for Flutter	https://github.com/ZedTheLed/calendar_views	
+719307	DocumentReader-iOS	[Beta] iOS Framework for reading and validation of identification documents	https://github.com/regulaforensics/DocumentReader-iOS	
+739600	airr-react	UI Components for ReactJS	https://github.com/rafal-r/airr-react	
+853308	thor-sync		https://github.com/vechain/thor-sync	
+852118	TensorFlowAndroidDemo	TensorFlow android demo è__éÅ“çº¿ è__è_† äººè„¸ å_¨ä_œ éª¨æ_¶ è¯†åˆ« æ£€æµ‹	https://github.com/yuxitong/TensorFlowAndroidDemo	
+854509	Elmish.Bridge	Create client-server Fable-Elmish apps keeping a single mindset	https://github.com/Nhowka/Elmish.Bridge	
+853726	react-native-multi-language-sample	A tutorial on how to implement user-selectable language settings for your react-native app.	https://github.com/appfoundry/react-native-multi-language-sample	
+825618	rengorum	:clipboard: Minimal internet forum built in React & Django	https://github.com/endiliey/rengorum	
+822188	cordova-plugin-wechat	"A cordova plugin, a JS version of Wechat SDK"	https://github.com/guoanfamily/cordova-plugin-wechat	
+851523	fabu.love	"åº”ç”¨åè‘å¸ƒå__åè°ç±»ä__fir.im/è’_å…¬è‹±,æ”¯æŒÅæ£€æŸ¥æ›´æ–°,çÅ°åº_åè‘å¸ƒç_‰ç_‰. demoåœ°åù€ https://fabu.love"	https://github.com/HeadingMobile/fabu.love	
+834876	FastAdapter	å¿«é€Ÿä_¿ç”¨RecyclerView Adapter	https://github.com/aizuzi/FastAdapter	
+848735	frida-snippets	currently: repo of frida related scripts. future: ebook	https://github.com/iddoeldor/frida-snippets	
+621916	fib	Comparison of top 10 Github languages to Crystal	https://github.com/drujensen/fib	
+841880	Greatfit	Amazfit APKs watchfaces	https://github.com/GreatApo/Greatfit	
+817971	android-image-slider	an android auto image slider	https://github.com/smarteist/android-image-slider	
+802994	swift-frida	Frida API for interacting with Swift code. Very much a work in progress!	https://github.com/maltek/swift-frida	
+841156	EasyProtector	ä¸€é”®é›†æˆêé˜_æ__æ_ªæ–_	https://github.com/lamster2018/EasyProtector	
+840406	Android-references	Androidå_€åè‘åè‚è€ƒ	https://github.com/Shouheng88/Android-references	
+832965	Android_Spy_App	"This is a android spy app, which uploads user data such as contacts, messages, call log, send message(s), photos, videos, open a browser link etc."	https://github.com/abhinavsuthar/Android_Spy_App	
+850747	HybridCamera	Video and photo camera for iOS	https://github.com/eonist/HybridCamera	
+831249	kubernetes-rbac-synchroniser	Google groups to k8s role binding synchroniser	https://github.com/google-cloud-tools/kubernetes-rbac-synchroniser	
+728975	Sejil	View and filter your ASP.net core log events right from your app	https://github.com/alaatm/Sejil	
+807948	PFLockScreen-Android		https://github.com/thealeksandr/PFLockScreen-Android	
+837015	M365-Power		https://github.com/maisi/M365-Power	
+829344	GitHubBrowserApp	GitHubBrowserApp on kotlin + rxJava2 + rxLifeCycle + Dagger2 + Dagger2 Android + retrofit2 + mvvm	https://github.com/omjoonkim/GitHubBrowserApp	
+843897	Android-Study		https://github.com/taeiim/Android-Study	
+759151	Music-Player	From UI Proposal to Code :notes::arrow_forward:	https://github.com/MaxFour/Music-Player	
+764129	syncano-node		https://github.com/Syncano/syncano-node	
+821588	android-components		https://github.com/mozilla-mobile/android-components	
+613955	GfxSampleFramework	OpenGL-based app framework for graphics samples/prototyping.	https://github.com/john-chapman/GfxSampleFramework	
+842807	FireAnime	An android app that allows you to Stream anime that is specifically tailored to work on the Amazon Fire Stick	https://github.com/XenTeckzX/FireAnime	
+847387	MCW-OSS-DevOps	MCW OSS DevOps	https://github.com/Microsoft/MCW-OSS-DevOps	
+853346	close-issue-app	A github app to close issue	https://github.com/offu/close-issue-app	
+851209	rn-wechat	ä_¿ç”¨ReactNativeå_€åè‘ç_„ä»¿å_®ä¿¡å®¢æˆ·ç«¯ï_Œæ”¯æŒÅAndroidå’ŒiOS	https://github.com/yubo725/rn-wechat	
+848164	progressive-wordpress	This Plugin adds progressive features to your WordPress site and converts it to a progressive web app	https://github.com/SayHelloGmbH/progressive-wordpress	
+850733	GoogleIoTCoreApp		https://github.com/GabeWeiss/GoogleIoTCoreApp	
+836679	MacOS-Developers-Excuses	A macOS screen saver that shows a random developer excuse over a beautiful photo background. Made with âù_	https://github.com/ayltai/MacOS-Developers-Excuses	
+844285	synology-cloud-sync-decrypt-tool	Open source version of the Synology Cloud Sync decryption tool with a GUI	https://github.com/anojht/synology-cloud-sync-decrypt-tool	
+787644	swipeableOnboardingUIPageView	Swipeable cards lookalike used for onboarding	https://github.com/apraka16/swipeableOnboardingUIPageView	
+767877	buffalo-auth		https://github.com/gobuffalo/buffalo-auth	
+818087	AndroidAPS		https://github.com/andyrozman/AndroidAPS	
+846899	Packet_Sender_Mobile	iOS and Android version of Packet Sender	https://github.com/dannagle/Packet_Sender_Mobile	
+853575	aws-sdk-lisp	AWS-SDK for Common Lisp	https://github.com/pokepay/aws-sdk-lisp	
+821489	grand-challenge.org	Django web-frontend for the COMIC project	https://github.com/comic/grand-challenge.org	
+771791	Unlucky	LibGDX Android RPG/Dungeon Crawler game based on RNG	https://github.com/mingli1/Unlucky	
+847524	Librarian		https://github.com/biocross/Librarian	
+852325	appsync-resolvers-example	"Example project for AppSync, GraphQL, and AWS Lambda resolvers using Go."	https://github.com/sbstjn/appsync-resolvers-example	
+840975	RealDeviceRaidMap	A Raid-Map for PokÃ©mon Go entirely powered by real devices. (Requires a Monocle DB |Â RocketMap support soon)	https://github.com/123FLO321/RealDeviceRaidMap	
+823539	flutter_url_webview_examples		https://github.com/tensor-programming/flutter_url_webview_examples	
+829363	react-native-audio-recorder-player	Npm module for react-native audio recorder and player.	https://github.com/dooboolab/react-native-audio-recorder-player	
+850535	bumo-sdk-go		https://github.com/bumoproject/bumo-sdk-go	
+842661	1space	Swift-S3 synchronization tool	https://github.com/swiftstack/1space	
+833178	react-native-audio-record	Audio record buffers for React Native (iOS and Android)	https://github.com/goodatlas/react-native-audio-record	
+831798	techies		https://github.com/ammezie/techies	
+849228	core	Light Dynamic UI Engine for Native and Web with a React Compatible API	https://github.com/syrjs/core	
+854808	grokSwiftREST_v1.4	Demo code for iOS Apps with REST APIs book v1.4 https://leanpub.com/iosappswithrest	https://github.com/cmoulton/grokSwiftREST_v1.4	
+839952	TreeTableView	iOS æ ‘ç_¶åˆ—è¡¨æ_§ä»¶ï_ŒçÅµæ´»æ€§é«˜ï_Œåè¯è‡ªå®_ä_‰æ ·å_èã€‚	https://github.com/mayan29/TreeTableView	
+855588	Form	Form is an iOS Swift library for building and styling UIs	https://github.com/iZettle/Form	
+844221	flushbar	Custom widget for Flutter	https://github.com/AndreHaueisen/flushbar	
+702559	Android-	Android è¿›ç¨‹ä¿ùæ´»èµ„æ–™æ±‡æ€»ä¸_åç_ä¸ºç™_åêçåç•ç_„ä¸€äº›èµ„æ–™	https://github.com/852172891/Android-	
+680334	scaleview		https://github.com/yhongm/scaleview	
+853890	meetingApp	ä¸€ä¸ªå_®ä¿¡å°èç¨‹åºèï_ˆä__è®®å®_å_©æ‰‹ï_‰	https://github.com/Zinc925/meetingApp	
+853602	Astroid-Framework		https://github.com/joomdev/Astroid-Framework	
+850460	flutter-osc	åŸºäº_Google Flutterç_„å_€æºêä¸_å›_å®¢æˆ·ç«¯ï_Œæ”¯æŒÅAndroidå’ŒiOSã€‚	https://github.com/yubo725/flutter-osc	
+826685	ZCommon		https://github.com/yuyuyu123/ZCommon	
+738299	JSAPI_demos	Simple demos for ArcGIS API for JavaScript	https://github.com/RalucaNicola/JSAPI_demos	
+762774	node-cq-websocket	A Node SDK  for developing CoolQ apps which are depending on WebSocket plugins on CoolQ.	https://github.com/momocow/node-cq-websocket	
+845612	flutter_study	study	https://github.com/zhujian1989/flutter_study	
+835604	react-native-walkthrough-tooltip	An inline wrapper for calling out React Native components via tooltip	https://github.com/jasongaare/react-native-walkthrough-tooltip	
+853227	NVIDIA-DeepStreamSDK	NVIDIA DeepStream SDK 	https://github.com/ghostbbbmt/NVIDIA-DeepStreamSDK	
+852892	flutter_after_layout	"Flutter After Layout - Brings functionality to execute code after the first layout of a widget has been performed, i.e. after the first frame has been displayed. Maintainer: @slightfoot"	https://github.com/fluttercommunity/flutter_after_layout	
+784962	youtube-dl-android		https://github.com/tastelessjolt/youtube-dl-android	
+552251	android-debugging-challenges		https://github.com/codepath/android-debugging-challenges	
+797097	xtend		https://github.com/zerh/xtend	
+845255	Pixiv-android	Pixiv( Pç«™ ) / Hitokoto( ä¸€è¨€ ) client for android ï_ˆMaterial Designï_‰	https://github.com/CeuiLiSA/Pixiv-android	
+849240	PinLayout	"Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]"	https://github.com/layoutBox/PinLayout	
+835448	angular-ngrx-nx-realworld-example-app	"Exemplary real world application built with Angular 5, ngrx, nrwl/nx"	https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app	
+844692	ios-sim	Command-line application launcher for the iOS Simulator	https://github.com/ios-control/ios-sim	
+854361	flutter_spinkit	A collection of loading indicators animated with flutter. Inspired by [https://github.com/tobiasahlin/SpinKit]	https://github.com/jogboms/flutter_spinkit	
+812317	solid-panes	A set of core solid-compatible apps based on solid-ui	https://github.com/solid/solid-panes	
+821192	trommel	TROMMEL: Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators	https://github.com/CERTCC/trommel	
+804284	react-daterange-picker		https://github.com/wojtekmaj/react-daterange-picker	
+847265	flutter_refresh	flutter refresh ä¸_æ‹‰åˆ·æ–° ä¸‹æ‹‰å_ è__	https://github.com/While1true/flutter_refresh	
+835056	ClassicDownload	æ‰_äº†ä¸€å_©RxDownloadç_„bugï_Œè§£å†_ä¸çäº†ï_Œæ‡’å_—å_»çœ‹ä»–ç_„å®_ç_°ï_Œè‡ªå·±å†™äº†ä¸€å¥—åŸºäº_RxJavaç_„Androidæ–_éù¢ç_„ä¸‹è__ï_Œæ”¯æŒÅçº¿ç¨‹æ± ç®¡çê†ã€Åæ–_ç‚_ç»_ä_ ã€Åä¸‹è__å®Œæˆêæ ¡éªŒã€Åä¸‹è__ä¸_æ–_	https://github.com/zerochl/ClassicDownload	
+821167	web3.swift	Ethereum Swift API with support for smart contracts and ENS	https://github.com/argentlabs/web3.swift	

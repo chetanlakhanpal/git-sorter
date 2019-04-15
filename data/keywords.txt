@@ -1,0 +1,54 @@
+iOS
+Android
+palmOS
+phone
+tablet
+app store
+google play
+app
+mobile
+touch
+apk
+flutter
+react-native
+device
+swift
+UICollectionView
+kotlin
+watchOS
+cocos2d
+objective-c
+corona
+iphone
+multi-touch
+push notification
+freemium
+fitbit
+siri
+google assistant
+gps
+navigation
+4g
+LTE
+inductive
+battery
+signal
+home button
+android auto
+carplay
+responsive
+sdk
+testflight
+sync
+xcode
+eclipse
+UDID
+SSAID
+IMEI
+contacts
+sd card
+permission
+jailbreak
+root
+location services
+google now

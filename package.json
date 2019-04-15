@@ -1,0 +1,17 @@
+{
+  "name": "git-sorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Markandey Pathak <mpathak@deloitte.com> (http://markandey.online)",
+  "license": "ISC"
+}
